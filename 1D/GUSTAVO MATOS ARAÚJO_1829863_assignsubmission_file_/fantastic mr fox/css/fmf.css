@@ -1,0 +1,111 @@
+html {
+  box-sizing: border-box;
+}
+
+ul {
+  align-self: center;
+  margin-top: -40px;
+}
+
+ul li {
+  display: inline-block;
+  margin-left: 50px;
+}
+
+ul li a {
+  text-decoration: none;
+}
+body {
+  background-color: rgb(140, 75, 33);
+}
+h1 {
+	color: rgb(255, 255, 255);
+	font-family: Georgia, serif;
+	padding-left: 10px;
+	text-align: justify;
+}
+h2 {
+	color: rgb(255, 255, 255);
+	font-family: Georgia, serif;
+	font-size: 24px;
+}
+h4 {
+	font-family: Georgia, serif;
+	font-size: 30px;
+	padding-left: 10px;
+}
+p {
+	color: rgb(255, 255, 255);
+	font-family: Georgia, serif;
+	padding-left: 10px;
+	padding-right: 10px;
+	text-align: justify;
+}
+footer {
+	font-family: Georgia, serif;
+	font-size: 30px;
+	color: rgba(255,255,255,1.00);
+	text-align: center;
+	background-color: rgba(73, 38, 15, 1.00);
+	padding: 20px 0px;
+	margin: -8px -8px;
+}
+.topnav {
+	background-color: rgba(73, 38, 15, 1.00);
+	overflow: hidden;
+	margin-top: -8px;
+	margin-left: -8px;
+	margin-right: -8px;
+}
+.topnav a {
+	float: left;
+	color: #f2f2f2;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+	font-size: 17px;
+}
+.topnav a:hover {
+	background-color: rgb(255, 255, 255);
+	color: rgba(0, 0, 0, 1.00)
+}
+.topnav a.active {
+	background-color: rgb(140, 75, 30);
+	color: rgb(255, 255, 255);
+}
+.container {
+	position: relative;
+	font-family: Georgia, serif;
+	font-size: 24px;
+	margin-left: -8px;
+	margin-right: -8px;
+	margin-top: 0px;
+}
+
+.text-block {
+	position: absolute;
+	bottom: 250px;
+	right: 40px;
+	background-color: rgb(140, 75, 33);
+	color: rgb(255, 255, 255);
+	padding-left: 60px;
+	padding-right: 60px;
+	padding-bottom: 150px;
+	margin-bottom: -250px;
+}
+.card {
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+	max-width: 300px;
+	margin: auto;
+	text-align: center;
+	padding: 30px 20px;
+	display: table-cell;
+}
+.title {
+	color: rgba(135,135,135,1.00);
+	font-size: 18px;
+}
+hr.rounded {
+	border-top: 8px solid rgba(73, 38, 15, 1.00);
+	border-radius: 5px;
+}

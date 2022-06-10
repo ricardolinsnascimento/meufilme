@@ -1,0 +1,41 @@
+body{
+    text-align: center;
+    background-image: url(../img/julieta.jpg);
+        color: #F553DB;
+}
+h1{
+    text-align: center;
+    font-family: serif;
+    color: #F53257;
+    background-color:#F5B8DB;
+}
+h2{
+    text-align: center;
+    font-family: sans-serif;
+    color:#F53257;
+    background-color:#F5B8DB;
+}
+h2{
+    text-align: center;
+    color:#F53257;
+    background-color:#F5B8DB;
+    margin-left: 200;
+}
+p{
+    text-align: center;
+    font-family: serif;
+    color:#F53257;
+    background-color:#580A61;
+}
+ul{
+    font-family: monospace;
+    border-color:red;
+    border-style:#580A61;
+    border-width:#D016E6;
+}
+footer{
+    background-color:#E27967;
+    color:red;
+    text-align: center;
+}
+            

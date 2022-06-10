@@ -1,0 +1,31 @@
+  body{
+   border: thin;
+   text-align: center;
+   background-color:  #A9A9A9
+  }
+  img{
+  	max-width: 500px;
+    width: auto;
+    max-height: 500px
+  }
+  h1{
+    background-color: #4F4F4F;
+  }
+  h2{
+    background-color: #4F4F4F;
+  }
+  a{
+  	color: #4682B4;
+  }
+  footer{
+  	padding: 20px;
+  }
+  ul{
+  	border-color: black; 
+    border-style: solid;
+    border-width: 1px;
+    list-style: none;
+  }
+  a{
+  	color: #000;
+  }

@@ -1,0 +1,35 @@
+body{
+	text-align: center;
+	margin-left: 90px;
+	margin-top: 50px;
+	margin-right: 80px;
+	margin-bottom: 80px;
+	background-image: url(../img/Fundo.jpg);
+	border-style: solid;
+	border-color:#98FB98;
+	border-width:3px ;
+	font-family: Times, "Times New Roman", Georgia, serif;
+	background-size:cover ;
+}
+
+h1 {
+	color:#000000;
+	
+}
+h2 {	
+	color: #000000;
+}
+h3{
+
+}
+ul    
+	color:#000000;
+	
+}
+li {
+
+	color:#000000;
+}
+p {
+	color:#000000;
+}

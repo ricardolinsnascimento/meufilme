@@ -1,0 +1,32 @@
+html{
+	text-align: center;
+	background-image: url(../img/fundo.jpg);
+	color: rgb(0,0,0);	
+}
+h1{
+	font-family:"Times New Roman", serif;
+	color: rgb(0,0,0);
+}
+h2{
+	font-family:Georgia, serif;
+	color: rgb(0,0,0);
+}
+p{
+	font-family:quick,mosk,sans-serif;
+	color: rgb(0,0,0);
+}
+ul{
+	font-family: times,serif;
+	color: rgb(0,0,0);
+}
+footer{
+	font-family: mosk,sans-serif;
+	background-color: rgb(225,225,225);
+	padding-top: 15px;
+	padding-bottom: 15px;
+	padding-left: 10px;
+	margin: 10px;
+}
+#info{
+	font-size: 20px;
+}

@@ -1,0 +1,32 @@
+body{
+	background-color: black;
+}
+h1{
+	font-family:;
+	color: white;
+	margin-left: 110px;
+}
+ul{
+	color: white;
+}
+h2{
+	font-family: courier,serif;
+	color: red;
+	margin-left: 200px;
+}
+p{	
+	font-family: arial,sans-serif;
+	color: white;
+}
+#sinopse{
+	margin-right: 1300px;
+}
+figcaption{
+	color: white;
+}
+footer{
+	padding: 10px;
+	color: #ffffff;
+	background-color: darkblue;
+	text-align: center;
+}

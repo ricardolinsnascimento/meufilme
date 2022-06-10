@@ -1,0 +1,21 @@
+body{
+	background-color: black;
+	font-size: 12px;
+	font-family: Arial, Geneva, Vernada;
+}
+h1{
+	color: white;
+	margin: 1em;
+	margin: 10px 750px 50px;
+}
+h2{
+	color: white;
+	margin: 10px 500px	100px;
+}
+img{
+	position: relative;
+	weight: 150px;
+	width: 500px;
+	top: 4	0%;
+	left: 35%;
+}

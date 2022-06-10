@@ -1,0 +1,40 @@
+body{ 
+	margin-left: 60px;
+	margin-top: 50px;
+	background-image: url(../img/aaa.jpg);
+	background-attachment: fixed;
+	background-size: cover;
+	font-family: 'Nimbus Sans L', sans-serif
+}
+
+h1{
+	color: rgb(33, 47, 61);
+	background-color: rgb(234, 237, 237);
+	width: 1150px;
+	border-radius: 8px;
+	margin: 60px;
+	text-align: center;
+	
+
+}
+h2{
+	color: white;
+	background-color: rgb(27, 79, 114);
+	width: 180px;
+	border-radius: 5px;
+}
+
+footer{
+	background-color: black;
+	margin-top: 20px;
+}
+figcaption{
+	color: rgb(245, 238, 248);
+}
+p{
+	color: white;
+	margin-top: 20px;
+}
+ul{
+	color: #FF8C00;
+}

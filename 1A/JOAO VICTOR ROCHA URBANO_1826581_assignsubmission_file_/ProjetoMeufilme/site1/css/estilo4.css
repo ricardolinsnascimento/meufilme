@@ -1,0 +1,37 @@
+body{
+    background-color: #211C1C;
+    background-image: url(https://image.tmdb.org/t/p/original/j71WSTV2pv7xg2TimbFxtCmVjdQ.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+
+}
+h1{
+	text-align: center;
+	background-color: #332E2E;
+	margin-right: 500px;
+	margin-left: 500px;
+	font-size: 40px;
+	font-family: fantasy;
+	color: #CB3B3A;
+}
+h2{
+	color: white;
+}
+p{
+	color: white;
+	font-size: 25px;
+	font-family: cursive;
+}
+a{
+	font-size: 20px;
+	color: #CB3B3A;
+}
+ul{ background-color: #332E2E;
+	margin-right: 930px;
+ }
+ li{
+ 	color: white;
+ }
+ h3{
+ 	color: white;
+ }

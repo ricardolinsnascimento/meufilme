@@ -1,0 +1,123 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300&display=swap');
+* {
+	background-color: black;
+	margin-left: 25px;
+	margin-right: 25px;
+	font-family: 'Montserrat', sans-serif;
+	color: white;
+}
+#h11 {
+	text-align: center;
+	margin: 0;
+	padding: 20px;
+	font-size: 30px;
+	/*background-image: url(imgs/btmmm.webp);
+	padding-bottom: 100px;*/
+	background-color: rgb(255,0,0); /*vermelho*/
+	border-radius: 10px;
+	color: rgb(0,0,0); /*preto*/
+}
+#lista1 {
+	list-style-type: none;
+	padding: 0;
+	text-align: center;
+}
+.li1 {
+	margin: 10px;
+	display: inline;
+	font-size: 20px;
+	border: 2px solid #C0C0C0;
+	border-radius: 5px;
+	padding: 10px;
+}
+a {
+	text-decoration: none;
+	color: white;
+}
+h2 {
+	padding: 10px;
+	margin: auto;
+	font-size: 25px;
+	color: rgb(255,0,0); /*vermelho */
+}
+p {
+	font-size: 20px;
+}
+.aaa {
+	width: 200px;
+	padding: 40px;
+	/*margin: auto;*/
+	display: inline-block;
+	margin-left: 50px;
+}
+.pdiv {
+	text-align: left;
+	font-size: 13px;
+}
+#lista2 {
+	padding: 15px;
+	margin: 50px;
+	text-align: center;
+	border: 4px double #C0C0C0;
+	list-style-type: upper-roman;
+	list-style-position: inside;
+	background-image: url(imgs/fundoo.avif);
+	background-size: cover;
+}
+.li2 {
+	font-size: 20px;
+	background-color: transparent;
+}
+footer {
+	text-align: center;
+	font-size: 25px;
+	/*background-color: rgb(255,0,0); /*vermelho
+	padding: 20px;
+	margin: 0;
+	border-radius: 10px;
+	padding-right: 491px;
+	padding-left: 491px;*/
+}
+#ft {
+	font-size: 15px;
+}
+#a1 {
+	/*border: 2px solid #C0C0C0;
+	border-radius: 5px;
+	padding: 10px;*/
+}
+iframe {
+	margin-left: 300px;
+}
+#h26 {
+
+}
+/*#a1 {
+	background-color: rgb(255,0,0); /*vermelho
+	padding: 20px;
+	margin: 0;
+	border-radius: 10px;
+	padding-right: 491px;
+	padding-left: 491px;
+}*/
+.imt {
+	height: 350px;
+	/*width: 250px;*/
+}
+.ell {
+	padding: 10px;
+	margin: auto;
+	font-size: 25px;
+	color: rgb(255,0,0);
+	text-decoration: underline;
+}
+/*#a11 {
+	margin-left: 575px;
+}*/
+#ell {
+	padding: 10px;
+	margin: auto;
+	font-size: 25px;
+	color: rgb(255,0,0);
+	text-decoration: underline;
+}

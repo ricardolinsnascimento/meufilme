@@ -1,0 +1,42 @@
+body{ 
+	margin-left: 60px;
+	margin-top: 50px;
+	background-image: url(../img/fundoel.jpg);
+	background-attachment: fixed;
+	background-size: cover;
+	font-family: 'Nimbus Sans L', sans-serif
+}
+
+h1{
+	color: white;
+	background-color: rgb(40, 55, 71);
+	width: 1150px;
+	border-radius: 8px;
+	margin: 60px;
+	text-align: center;
+	
+
+}
+h2{
+	color: white;
+	background-color: rgb(40, 55, 71);
+	width: 180px;
+	border-radius: 5px;
+}
+
+footer{
+	background-color: black;
+	margin-top: 20px;
+}
+figcaption{
+	color: rgb(245, 238, 248);
+}
+p{
+	color: white;
+	background-color: black;
+	border-radius: 4px;
+	margin-top: 20px;
+}
+ul{
+	color: #FF8C00;
+}

@@ -1,0 +1,41 @@
+body{
+	background-image:url(../img/balom.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	
+}
+#elenco{
+	background-image:url(../img/itt.jpg);
+}
+title{
+	color: white;
+}
+h1{
+	color:white;
+}
+h2{
+	color:white;
+}
+figcaption{
+	color:white;
+}
+a{
+	color:white;
+}
+p{
+	background-color:black;
+	color:#a20202;
+}
+ul{
+	border-style:double; 
+	color: #6a0000;
+	border-style: #b10005;
+	border-width: 3px;
+}
+footer{
+	background-color:red; 
+	padding-top:10px;
+	padding-bottom:20px;
+	padding-left:20px;
+	margin-top:20px;
+}

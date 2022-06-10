@@ -1,0 +1,236 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+	<head>
+		<meta charset="utf-8"/>
+		<title>Projeto Meu Filme</title>				
+		<link rel="stylesheet" type="text/css" href="css/estilo.css">
+
+		<!-- CSS only -->
+		<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-0evHe/X+R7YkIZDRvuzKMRqM+OrBnVFBL6DOitfPri4tjfHxaWutUpFmBp4vmVor" crossorigin="anonymous">
+
+		<!-- JavaScript Bundle with Popper -->
+		<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/js/bootstrap.bundle.min.js" integrity="sha384-pprn3073KE6tl6bjs2QrFaJGz5/SUsLqktiwsUTF55Jfv3qYSDhgCecCxMW52nD2" crossorigin="anonymous"></script>
+
+
+		<script>
+			window.onload = function(e){
+				document.getElementById("T1A").style.display = "block";
+			 };
+
+			 function mostra(turma){
+			 	switch(turma){
+			 		case '1a':
+				 		document.getElementById("T1A").style.display = "block";
+				 		document.getElementById("T1B").style.display = "none";
+				 		document.getElementById("T1C").style.display = "none";
+				 		document.getElementById("T1D").style.display = "none";
+				 		document.getElementById("TTE").style.display = "none";
+			 			break;
+			 		case '1b':
+			 			document.getElementById("T1A").style.display = "none";
+				 		document.getElementById("T1B").style.display = "block";
+				 		document.getElementById("T1C").style.display = "none";
+				 		document.getElementById("T1D").style.display = "none";
+				 		document.getElementById("TTE").style.display = "none";
+			 		break;
+			 		case '1c':
+			 			document.getElementById("T1A").style.display = "none";
+				 		document.getElementById("T1B").style.display = "none";
+				 		document.getElementById("T1C").style.display = "block";
+				 		document.getElementById("T1D").style.display = "none";
+				 		document.getElementById("TTE").style.display = "none";
+
+			 		break;
+			 		case '1d':
+			 			document.getElementById("T1A").style.display = "none";
+				 		document.getElementById("T1B").style.display = "none";
+				 		document.getElementById("T1C").style.display = "none";
+				 		document.getElementById("T1D").style.display = "block";
+				 		document.getElementById("TTE").style.display = "none";
+
+			 		break;
+			 		case 'TE':
+			 			document.getElementById("T1A").style.display = "none";
+				 		document.getElementById("T1B").style.display = "none";
+				 		document.getElementById("T1C").style.display = "none";
+				 		document.getElementById("T1D").style.display = "none";
+				 		document.getElementById("TTE").style.display = "block";
+
+			 		break;
+			 	}
+			 }
+
+		</script>
+	</head>
+	<body>
+
+		<div class="container bg-info topo">
+		
+			<div >
+				<div class="row titulo  text-white ">
+					<div class="col-12">
+						<h1 class="display-3  "> <strong> Projeto Meu Filme </strong> </h1>
+						
+					</div>			
+				</div>
+
+			</div>
+
+			<div class="row">
+				
+				
+				<div class="botoes">
+					<div class="col-12">
+						<button onclick="mostra('1a')" type = "button" class="btn btn-warning">1A</button>
+						<button onclick="mostra('1b')" type = "button" class="btn btn-warning">1B</button>
+						<button onclick="mostra('1c')" type = "button" class="btn btn-warning">1C</button>
+						<button onclick="mostra('1d')" type = "button" class="btn btn-warning">1D</button>
+						<button onclick="mostra('TE')" type = "button" class="btn btn-warning">TE</button>
+					</div>
+
+					
+				</div>
+
+				
+				
+			</div>
+
+		
+			<div class="row">
+				<div id="T1A">
+					<div class="col-11">
+						<div  class="card  border-primary lista">
+							<div class="card-header">1A</div>
+							<div class="card-body">
+								
+								<ul>
+									<li> <a class="text-primary" href="1A\ALINE SILVA MANDACARI_1826586_assignsubmission_file_\Projeto Meu Filme/index.html"> Aline Silva Mandacari - Orgulho e Preconceito  </a> </li>
+
+									<li> <a class="text-primary" href="1A\ANNA LETHYCIA PORTO DOS SANTOS_1826553_assignsubmission_file_\front end/index.html"> Anna Lethycia e Anna Julia -  Harry Potter e o Prisioneiro de Askaban </a> </li>
+
+									<li> <a class="text-primary" href="1A\ANNY ELIZE SALES DOS SANTOS_1826555_assignsubmission_file_\stranger things/index.html"> Anny Elize -  Stranger Things </a> </li>
+
+									<li> <a class="text-primary" href="1A\CAIO ERTZOGUE FLEGR_1826569_assignsubmission_file_\trabalho fe/index.html"> Caio Flegr e Pedro Israel - The Batman </a> </li>
+
+									<li> <a class="text-primary" href="1A\CAMILLE DA SILVA SOUZA_1826570_assignsubmission_file_\Projeto meu filme/index.html"> Camille Souza - Stranger Things </a> </li>
+
+									<li> <a class="text-primary" href="1A\CLAUTER DE ARAUJO BARROSO_1826590_assignsubmission_file_\PROJETO - MeuFilme - Clauter Barroso 1A\PROJETO - MeuFilme - Clauter Barroso 1A/myfilm.html"> Clauter Araújo - Animais Fantásticos e Onde Habitam </a> </li>
+
+									<li> <a class="text-primary" href="1A\EVELLYN YUKIE GARCIA UTIDA_1826568_assignsubmission_file_\Projeto meu filme/filme.html"> Evellyn Utida - Thor:Ragnarok </a> </li>
+
+									<li> <a class="text-primary" href="1A\EVELYN SOARES ZAGOLINO_1826582_assignsubmission_file_\Projeto meu filme\Orgulho e  Preconceito/index.html"> Evelyn Soares - Orgulho e Preconceito </a> </li>
+
+									<li> <a class="text-primary" href="1A\GEOVANA MANOELI TERLESKI DATSCH_1826578_assignsubmission_file_\SHREK/index.html"> Geovana Manoeli - SHREK PARA SEMPRE </a> </li>
+
+									<li> <a class="text-primary" href="1A\GUSTAVO BENITES NIMIA_1826558_assignsubmission_file_\Truque de Mestre/index.html"> Gustavo Benites e Guilherme Costa - Truque de Mestre  </a> </li>
+
+									<li> <a class="text-primary" href="1A\HELOISA FERRAZ NEVES_1826594_assignsubmission_file_\trabalho frond end/index.html"> Heloisa Ferraz - Cartas para Julieta </a> </li>
+
+									<li> <a class="text-primary" href="1A\HUMBERTO JOSÉ SEPA DE MATOS NETO_1826575_assignsubmission_file_\Humberto 1A/index.html"> Humberto Neto - Rota de Fuga </a> </li>
+
+									<li> <a class="text-primary" href="1A\JOAO VICTOR ROCHA URBANO_1826581_assignsubmission_file_\ProjetoMeufilme\site1/siteinicial.html"> João Victor Rocha Urbano e Luiz Gustavo Neckel - The Witcher </a> </li>
+
+									<li> <a class="text-primary" href="1A\JOÃO BLAN DE LIMA NETO_1826574_assignsubmission_file_\trabalho meu filme/filme-ação.html"> João Blan - Deadpool</a> </li>
+
+									<li> <a class="text-primary" href="1A\JOÃO VITOR ALVES VALERIO_1826557_assignsubmission_file_\Site Filme/index.html"> João Vitor Alves Valerio - Brooklyn Nine-Nine</a> </li>
+
+									<li> <a class="text-primary" href="1A\JOÃO VITOR ARAÚJO DE ALENCAR_1826585_assignsubmission_file_\Filme Doutor Estranho/index.html"> João Vitor Araújo de Alencar - Doutor Estranho no Multiverso da Loucura</a> </li>
+
+									<li> <a class="text-primary" href="1A\JUCIELY PEREIRA ESPINDOLA_1826583_assignsubmission_file_\Rio 2-Filme/index.html"> Juciely Pereira Espindola - Rio 2</a> </li>
+
+									<li> <a class="text-primary" href="1A\JULIANA FELIX DOS SANTOS_1826579_assignsubmission_file_\trabalhoFILME/index.html"> Juliana Felix dos Santos - O menino do pijama listrado</a> </li>
+
+									<li> <a class="text-primary" href="1A\JÚLIA BATISTA NASCIMENTO_1826567_assignsubmission_file_\Trabalho Meu Filme/index.html"> Júlia Nascimento - Para Todos os Garotos que já Amei</a> </li>
+
+									<li> <a class="text-primary" href="1A\KALIL HENRIQUE MEDEIROS_1826589_assignsubmission_file_\Trabalho - Copia/venom.html"> Kalil H e Gustavo Machado - VENOM</a> </li>
+
+
+									<li> <a class="text-primary" href="1A\KEMILLY DO NASCIMENTO COSTA_1826587_assignsubmission_file_/kemi/serie/anne.html"> Kemilly e Vitória - Anne with an E</a> </li>
+
+									<li> <a class="text-primary" href="1A\MARIA EDUARDA GALEANO CASTILHO_1826556_assignsubmission_file_\Meu Filme/zootopia.html"> Maria Eduarda - Zootopia</a> </li>
+
+									<li> <a class="text-primary" href="1A\MARINA SIGNOR TIRLONI_1826577_assignsubmission_file_\meu filme/index.html"> Marina Signor Tirloni - Steven Universo</a> </li>
+
+									<li> <a class="text-primary" href="1A\MATHEUS LUIZ AYALA DE SOUZA_1826572_assignsubmission_file_\MEU FILME/Panteranegra.html"> Matheus Luiz - Pantera Negra</a> </li>
+
+									<li> <a class="text-primary" href="1A\MILENA ALISSA MARQUES DA SILVA_1826588_assignsubmission_file_\Meu Filme - Cópia/index.html">  Milena Alissa  - Alice no Pais das Maravilhas</a> </li>
+
+									<li> <a class="text-primary" href="1A\NICOLAS BRIZOLA BONACINA_1826593_assignsubmission_file_\Projeto meu filme/Sérieflash.html">  Nicolas Bonacina e André Luiz - Flash</a> </li>
+
+									<li> <a class="text-primary" href="1A\NICOLAS GABRIEL POLDO_1826584_assignsubmission_file_\MeuFilme_Joker/index.html">   Nicolas Gabriel Poldo - Jocker</a> </li>
+
+									<li> <a class="text-primary" href="1A\PAULO JOSÉ DE CAMPOS DRUMOND PEREIRA_1826565_assignsubmission_file_\Carlos e Paulo 1a/filme.html">   Carlos Alberto e Paulo José - Jocker</a> </li>
+
+									<li> <a class="text-primary" href="1A\REBECA FELIX DE BRITO_1826566_assignsubmission_file_\Iron Man/index.html">   Rebeca Felix de Brito - Homem de Ferro</a> </li>
+
+								</ul>
+							</div>
+
+						</div>
+					</div>
+				</div>
+
+
+				<div id="T1B">
+					<div class="col-11">
+						<div  class="card  border-primary lista">
+							<div class="card-header">1B</div>
+							<div class="card-body"> 
+							</div>
+
+						</div>
+					</div>
+				</div>
+
+				<div id="T1C">
+					<div class="col-11">
+						<div  class="card  border-primary lista">
+							<div class="card-header">1C</div>
+							<div class="card-body">
+							</div>
+
+						</div>
+					</div>
+				</div>
+
+				<div id="T1D">
+					<div class="col-11">
+						<div  class="card  border-primary lista">
+							<div class="card-header">1D</div>
+							<div class="card-body">
+							</div>
+
+						</div>
+					</div>
+				</div>
+
+				<div id="TTE">
+					<div class="col-11">
+						<div  class="card  border-primary lista">
+							<div class="card-header">TURMA ESPECIAL</div>
+							<div class="card-body">
+							</div>
+
+						</div>
+					</div>
+				</div>
+
+			</div>
+		</div>
+				
+	</body>
+
+	<div class="container bg-secondary text-white rodape">
+		<div class="row">
+			<div class="col">
+				<footer>
+					<p class="text"> Trabalho da disciplina Desenvolvimento Front-End 1 - Professor Ricardo Nascimento - IFMS Dourados</p>
+				</footer>				
+			</div>
+		</div>
+		
+	</div>
+
+	
+	
+</html>

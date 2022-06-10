@@ -1,0 +1,25 @@
+body{
+	
+	font-family:arial;
+	margin: 0px;
+	color:rgb(255, 0, 0);
+	background-color: black;
+	padding-left: 50px;
+	padding-top:10px ;
+	
+}
+
+h1{
+	
+	border: 1px;
+	border-color: blue;
+}
+
+
+p{
+	color:blue;
+}
+
+h2{
+	margin-top:70px;
+}

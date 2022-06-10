@@ -1,0 +1,20 @@
+body{
+
+
+			background-color: rgb(100, 149, 237);
+			text-align: center;
+			background-image: url(../img/plano7.jpg);
+  		}
+  		h1{
+  			color : white;
+  			margin-left: 50px;
+  			margin-right: 50px;			
+  		}
+  		p{
+  			color : white;
+  		}
+  		ul{
+  			border-style: dotted;
+  			border-color: rgb(000, 000, 255);
+
+  		}

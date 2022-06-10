@@ -1,0 +1,11 @@
+body{
+font-family: sans-serif;
+	
+	background-color: #E0FFFF
+	border-style: solid;
+	margin: 15 px;
+	padding: 30 px;
+	border-width: 20 px;
+	background-image: url(../img/aa.jpg);
+	text-align: center;
+}	

@@ -1,0 +1,50 @@
+body {
+background-color: rgb(255,218,187); 
+font-family: segoe script, serif;
+color: black;
+text-align: center;
+border-color :black;
+border-style:dotted; 
+border-width: 10px;
+font-size:25px;
+
+}
+h1 {
+font-family:Ink Free,sans-serif;
+color: rgb(183,110,121); 
+ 
+}
+
+
+img{
+border-style: double;
+}
+
+li {
+  
+margin-left:400;
+margin-right:400;
+}
+
+p {
+font-family:MV Boli, sans-serif;
+margin-left:450px;
+margin-right:450px;
+}
+
+br{
+font-family: Baskerville Old Face, serif;
+color: black;
+
+}
+h3 {
+background-color: white;
+margin-left:400;
+margin-right:400;
+
+}
+footer {
+background-color: white;
+
+
+ }

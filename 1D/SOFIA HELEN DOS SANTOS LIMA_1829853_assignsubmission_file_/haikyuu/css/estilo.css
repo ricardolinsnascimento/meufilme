@@ -1,0 +1,49 @@
+
+body{
+	margin-top: 25px;
+	margin-left: 35px;
+	margin-right: 59px;
+
+	padding: 45px;
+	background-image: url(../img/pinkorange.jpg);
+	font-family: Times new Roman, Times, serif;
+	text-align: justify;
+}
+h3{
+	background-color: rgb(139,69,19);
+}
+
+h2{
+	background-color: rgb(184,134,11);
+	text-align: justify;
+	border-style: outset;
+	border-color: rgb(245,222,179);
+}
+
+h1{
+	background-color: rgb(245,222,179);
+	border-style: dashed;
+	border-color: rgb(210,105,30);
+	text-align: center;
+	color: rgb(219,112,147);
+	margin-left: 78px;
+	margin-top: 89px;
+}
+
+img{ margin-top: 25px
+	margin-left: 23px
+	border-style: dashed;
+}
+
+
+footer {
+
+padding: 10px
+color: rgb(0, 0, 0);
+border-style: dashed;
+border-color: rgb(255,215,0);
+background-color: rgb(173,255,47);
+text-align: center;
+ 
+
+    }

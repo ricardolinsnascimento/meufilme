@@ -1,0 +1,23 @@
+body{
+		background-image: url(../img/parede1.jpg);
+		margin: 30px 80px 30px 80px;
+		font-family: monospace;
+				text-align: justify;
+	}
+
+h1{
+		padding-left: 50px;
+    	padding-top: 10px;
+    	padding: 10PX;
+		background-color: #E0FFFF;
+		;
+	}
+
+figure{
+		float: right;
+	
+	}
+
+p{
+		
+	}

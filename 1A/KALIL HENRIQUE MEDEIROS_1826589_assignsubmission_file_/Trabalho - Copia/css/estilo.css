@@ -1,0 +1,38 @@
+body{
+	font-family: Times, "Times New Roman", Georgia, serif;
+	text-align: center;
+	background-image: url(../img/im2.jpg);
+	background-size: cover;
+}
+h1{
+	color: white;
+	
+}
+h2{
+	color: white;
+}
+p{
+	color: white; background-color: transparent;
+}
+ul{
+	/*border-color: white;
+	border-style: solid;
+	border-width: 2px;*/
+	text-decoration: none;
+	list-style-type: none;
+}
+footer{
+	background-color: transparent;
+	padding-top: 10px;
+	padding-left: 10px;
+	padding-bottom: 5px;
+	margin-top: 20px;
+}
+.li1 {
+	/*text-decoration: none;*/
+	color: white;
+}
+p#ft{
+	background-color: white;
+	color: black;
+}

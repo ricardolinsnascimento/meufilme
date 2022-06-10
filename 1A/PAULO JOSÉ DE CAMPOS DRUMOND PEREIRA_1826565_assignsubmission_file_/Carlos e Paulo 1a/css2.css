@@ -1,0 +1,11 @@
+body {
+	background-image: url(img1/fundo.jpeg);
+	background-size: cover;
+	text-align: center;
+	color: darkgreen;
+	font-family: serif;
+	background-size: 8;
+}
+a {
+		color: darkgreen;
+}

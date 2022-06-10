@@ -1,0 +1,27 @@
+body{
+	text-align: center;
+	background-image: url(../imag/Fundo.jpg);
+	color:rgb(255,255,255);
+}
+a{
+	color: rgb(255,69,0);
+}
+ol{
+	border-style: solid;
+}
+h2{
+	border-style: solid;
+}
+h3{
+	border-style: solid;
+}
+footer{
+	font-size: 22px;
+	background-color: red;
+}
+ul{
+	margin-bottom: 20px;
+}
+.ator{
+	margin-top: 20px;
+}

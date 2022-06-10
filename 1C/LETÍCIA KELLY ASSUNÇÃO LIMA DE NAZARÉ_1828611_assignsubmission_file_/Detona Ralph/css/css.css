@@ -1,0 +1,40 @@
+body{
+	background-image: url(../img/doce.jpg);
+    background-size: 1500px 1000px;
+    text-align: center;
+    font-family: Trebuchet MS, sans-serif
+    background-color: #008B8B;
+    color: #FFFF00;
+
+}
+h1{
+   color:#8B0000; 
+   background-color:#FFDAB9; 
+}
+h2{
+   color:#8B0000; 
+   background-color:#FFDAB9;
+}
+
+p{
+	font-size:21.1px;
+}
+
+a{
+	color:#ADD8E6;
+}
+
+h3{
+   color:#8B0000; 
+   background-color:#FFDAB9; 
+   font-size : 30px;
+}
+ul{
+  color: #EE82EE;
+}
+li{
+  color:yellow;
+}
+figcaption{
+  color:yellow;
+}

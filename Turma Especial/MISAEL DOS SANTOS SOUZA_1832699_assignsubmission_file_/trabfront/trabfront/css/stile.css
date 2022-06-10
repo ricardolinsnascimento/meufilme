@@ -1,0 +1,11 @@
+img{
+	width: 40vh;
+	margin-right: 45px;
+	margin-left: 6vh;
+}
+body{
+	background-image: url(../img/tijolos.jpg);
+	margin-left: 45px;
+	background-size: cover;
+	font-size: 3vh; 
+}

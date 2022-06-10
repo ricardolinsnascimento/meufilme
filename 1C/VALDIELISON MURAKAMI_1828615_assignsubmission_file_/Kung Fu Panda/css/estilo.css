@@ -1,0 +1,72 @@
+body{
+			text-align: center;
+			background-image: url(../img/FundoDeImagem.jpg);
+			background-repeat:no-repeat;
+			background-attachment: fixed;
+			background-size: 100%;
+}
+h1{
+			color:#C3F5E7;
+			background-image:url(../img/Faixa.png);
+}
+figcaption{
+			color: crimson;
+			font-size: 25px;
+}
+h2{
+			color: deepskyblue;
+			font-size: 50px;
+			font-style: oblique;
+}
+p{
+			
+			font-size: 30px;
+			color:orangered;
+			padding: 10px;
+}
+img{
+			width: 300px;
+			height: auto;
+}
+
+ul{
+			border-color: #000c0c;
+			border-width: 10px;
+			border-style: double;
+			font-size: 20px;
+			color: #000c0c;
+			text-align: left;
+			margin-left: 650px;
+			margin-right: 570px;
+			background-color: #0fbab7;
+			font-size:20px ;
+			
+}
+a:link{
+	color: crimson;
+	text-decoration: none;
+}
+a:hover{
+	color: lightsalmon;
+}
+h3{
+			color: orangered;
+			font-size: 30px;
+			font-style: unset;
+}
+.destaque{
+		background-color: silver;
+}
+#pequeno{
+	font-size: 20px;
+}
+#dois{
+	padding: 20px;
+}
+footer{
+	padding: 15px;
+	background-color: red;
+}
+#amarelo{
+	color: aquamarine;
+}

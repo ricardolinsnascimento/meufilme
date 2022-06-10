@@ -1,0 +1,36 @@
+body{
+	   font-family: sans-serif;
+	   background-size: 100%;
+	   background-repeat: no-repeat;
+	   background-color:#B22222;
+       margin-left: 50px;
+       margin-right:25px;
+       margin-top: 50px;
+       margin-bottom:25px;
+}
+
+h1{
+	color: #C0C0C0;
+}
+
+h2{
+	color: #C0C0C0;
+}
+
+p{
+   color: #C0C0C0;	
+   font-family:sans-serif;
+}
+
+footer{
+ 	background-color:black;
+ 	padding-top: 20px;
+ 	padding-bottom: 20px;
+ 	padding-left: 30px;
+ 	margin-top: 20px;
+ }
+
+ li{
+ 	color:	#F0F8FF;
+ 	
+ }

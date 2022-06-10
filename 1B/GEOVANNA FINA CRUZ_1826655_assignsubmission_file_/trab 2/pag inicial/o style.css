@@ -1,0 +1,43 @@
+*{
+	color: #e3b4ca;
+}
+
+body{
+	font-family: "helvetica", sans-serif, monospace;
+	background-image: url("../img/back.jpg");
+	background-color: #fcf3e3;
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+	text-align: center;
+	font-size: 15px;
+}
+
+h1{
+	color: #ad4d67;
+
+}
+
+h3{
+	margin: 0 0 0 0;
+}
+
+p{
+	margin: 0 25%;
+}
+
+li{
+	list-style-type: none;
+}
+
+ul{
+	padding-inline-start: 0;
+}
+
+img{
+	height: 300px;
+}
+
+#um{
+	width: 730px;
+	border: white solid 2px;
+}

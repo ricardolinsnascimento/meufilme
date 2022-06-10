@@ -1,0 +1,43 @@
+body{
+     background-color: #0f0507;
+     text-align: center;
+     background-image: url(../img/egito.jpg);
+     border-color: #0f0507;
+     border-style: solid;
+     border-width: 10px;
+     background-size: cover;
+}
+h1{
+   color: #ffffff;
+   background-color: #292120;
+   font-family: Times, "Times New Roman", Georgia, serif;
+   padding-top: 1px;
+   padding-bottom: 1px
+}
+img{
+   background-repeat: ;
+   background-size: cover;
+}
+h2{
+color: #ffffff;
+font-family: Times, "Times New Roman", Georgia, serif;
+}
+p{
+color: #ffffff;
+font-family: Times, "Times New Roman", Georgia, serif;
+}
+ul{
+color: #ffffff;
+font-family: Times, "Times New Roman", Georgia, serif;
+}
+li{
+    color: #ffffff;
+}
+footer {
+   background-color: #292120;
+   padding-top: 1px;
+   padding-bottom: 1px
+ }
+ a{
+   color: #ffffff;
+ }

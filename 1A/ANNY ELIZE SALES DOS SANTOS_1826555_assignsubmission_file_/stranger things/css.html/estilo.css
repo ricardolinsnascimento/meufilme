@@ -1,0 +1,55 @@
+body{
+	margin: 390px;
+	margin-left: 20;
+	background-image: url(../img/fundo.png);
+	background-color: rgb(0, 0, 0);
+	margin-top: 10px;
+}
+h1{
+	color: black;
+	padding: 25px 25px 25px 25px;
+
+}
+a{
+	margin: 15px;
+	color: white;
+	font-family: sans-serif;
+	background-color: rgb(0, 0, 0);
+}
+h2{
+	margin: 15px;
+	color: white;
+	font-family: sans-serif;
+	background-color: rgb(0, 0, 0);
+}
+p{
+	margin: 15px;
+	color: white;
+	font-family: sans-serif;
+	background-color: rgb(0, 0, 0);
+}
+h3{
+	margin: 15px;
+	color: white;
+	font-family: sans-serif;
+	background-color: rgb(0, 0, 0);
+}
+h4{
+	margin: 15px;
+	color: white;
+	font-family: sans-serif;
+	background-color: rgb(0, 0, 0);
+}
+figcaption{
+	margin: 20px;
+	margin-right: 30px;
+	color: white;
+	font-family: sans-serif;
+	background-color: rgb(0, 0, 0);
+}
+ul{
+	background-color: rgb(0, 0, 0);
+}
+footer{
+	background-color: rgb(0, 0, 0);
+}

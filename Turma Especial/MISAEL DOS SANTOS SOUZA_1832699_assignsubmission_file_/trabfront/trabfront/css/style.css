@@ -1,0 +1,42 @@
+h1 {
+	background-color: rgb(169, 240, 153)
+   
+}
+body {
+	background-image: url(../img/tijolos.jpg);
+	background-size: cover;
+	margin: 30px 80px 30px 80px;
+
+}
+h2{
+	background-color: rgb(169, 240, 153);
+	font-size: 4vh;
+}
+p{
+	font-size: 3vh;
+}
+h3{
+	font-size: 4vh;
+	background-color: rgb(169, 240, 153)
+}
+.capa{
+	width: 40vh;
+	float: left;
+}
+.icone{
+	width: 10vh;
+}
+.hbo{
+	width: 10vh;
+}
+.icon{
+	display:flex;
+	margin-left: 10vh ;
+}
+ul {
+	font-size: 3vh;
+}
+a {
+	font-size: 25px;
+}
+

@@ -1,0 +1,50 @@
+body{
+	text-align: center;
+	background-image: url(../img/fundo.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	margin-bottom: 1000px
+
+}
+
+#poster{
+	position: relative;
+	left: 150px;
+	bottom: 320px;
+}
+
+#diretor{
+	position: relative;
+	right: 150px;
+}
+
+h1{
+	font-family: "Trebuchet MS", "Gill Sans", sans-serif;
+	color: #520808;
+	background-color: #802121;
+	
+}
+p{
+		margin-left: 400px;
+	margin-right: 400px;
+}
+footer{
+	background-color: #802121;
+}
+
+.elenco{
+	position: relative;
+	right: 200px;
+	bottom: 160px;
+}
+.putz{
+	position: relative;
+	right: 225px;
+	bottom: 160px;
+}
+a{
+	color: #1c0101;
+}
+#telaelenco{
+	color: #420707
+}

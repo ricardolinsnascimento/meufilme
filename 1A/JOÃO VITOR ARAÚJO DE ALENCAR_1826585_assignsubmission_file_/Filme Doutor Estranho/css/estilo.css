@@ -1,0 +1,37 @@
+body {
+    background-image: url(../img/imagefundo.jpg);
+    margin: 50px 50px 50px 100px;
+}
+h1 {
+    color: #A52A2A;
+    background-color: 	#FFD700;
+    font-family: 'Times New Roman', serif;
+}
+h2 {
+    color: #4169E1;
+    font-family: Arial, "Trebuchet MS", sans-serif;
+}
+h3 {
+    color: #8B0000;
+    font-family: Arial, "Trebuchet MS", sans-serif;
+}
+p {
+    color: #FF0000;
+    font-family: Arial, "Trebuchet MS", sans-serif;
+}
+figcaption {
+    color: #B22222;
+}
+ul {
+    border-color: #0000FF;
+    border-style: dashed;
+    border-width: 4px;
+}
+a {
+    color: 	#0000FF;
+    font-family: Arial, "Trebuchet MS", sans-serif;
+}
+footer {
+    padding-top: 10px;
+    text-align: center;
+}

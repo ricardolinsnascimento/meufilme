@@ -1,0 +1,19 @@
+/*APAGAR; cor de fundo: background-color
+		cor dos elementos: color
+		tamnh da fonte: font-size
+
+		*DENTRO DA TAG UL* tirar os pontinhos: list-style-type: none;*/
+body{
+	text-align: center;
+	background-color:#8B0000;
+	font-size: 1000;
+}  ul{
+	list-style-type: none;
+
+}h1{
+	font-family: monospace
+	font-size: 72;
+}p{
+	font-family: monospace
+	font-size: 72;
+}

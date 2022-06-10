@@ -1,0 +1,30 @@
+body{	font-family: monospace;
+	background-color: #DEB887;
+
+
+}
+h1{
+	background-color: #00FFFF;
+	margin-left: 100px;
+	margin-right:100px;
+	font-family: sans-serif;
+	padding-left: 300px;
+}
+figcaption{
+	font-family: serif;
+}
+ul{
+	font-family: monospace;
+
+}
+h2{
+	background-color: #FFFFF0;
+	margin-right: 800px;
+
+}
+footer{
+	background-color: #CD853F;
+	margin-right: 200px;
+	margin-left: 200px;
+	font-family: serif;
+}

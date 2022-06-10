@@ -1,0 +1,29 @@
+body{
+	text-align: center;
+	background-image: url(../Img/fundo5.jpg);
+}
+h1{
+	color:rgb(0,0,128);
+	background-color: rgb(173,216,230);
+}
+h2{
+	color:rgb(0,191,255);
+	background-color: rgb(173,216,230);
+}
+h3{
+	
+	color: rgb(245,245,245);
+}
+p{
+	font-family: Bookman, URW Bookman L, serif;
+	color: rgb(175,238,238);
+	border-color:rgb(30,144,255);
+	border-style:double;
+	border-width:6px;
+}
+footer{
+		padding: 7px;
+		color: rgb(65,105,225);
+		background-color: rgb(176,196,222);
+		text-align: center;
+}

@@ -1,0 +1,50 @@
+body{
+    background-attachment: fixed;
+    background-size:cover ;
+    background-image: url(../img/capa22.jpg);
+    text-align: center;
+    font-family: cursive;
+    
+    
+}
+h1{
+    margin: 30px 0px 20px 0px;
+    font-family: luminari;
+    text-align: center;
+    align-items: center;
+}
+h2{
+     
+    font-family:luminari;
+    text-align: center;
+
+
+}        
+p{
+    text-align: left;
+    margin-bottom: -15px;
+    padding-left: 200px;
+    padding-right: 200px; 
+    
+}
+ 
+ul{
+	text-align: left;
+    margin-top: 30px;
+    margin-left: 180px;
+}
+figcaption{
+    color: #0a0af2;
+}
+img{
+    margin-top: 30px;
+}
+a{
+    color: #0a0af2;
+    margin-top: 20px;
+}
+footer{
+    color: #111112;
+    text-align: !important;
+    font-family: arial black;
+}

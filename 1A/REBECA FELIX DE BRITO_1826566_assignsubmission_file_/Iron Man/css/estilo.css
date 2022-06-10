@@ -1,0 +1,24 @@
+body{
+	background-color: #6A0C0B;
+	color: white;
+	font-family: "Gill Sans Extrabold", Helvetica, sans-serif;
+	margin: 30px;
+}
+h1{
+	background-color: #B97D10;
+	padding: 20px;
+}
+h2{
+	color: white;
+}
+ul{
+	color: white;
+}
+p{
+	color: white;
+}
+footer{
+	padding-bottom: 25px;
+	padding-left: 25px;
+	padding-top: 25px;
+}

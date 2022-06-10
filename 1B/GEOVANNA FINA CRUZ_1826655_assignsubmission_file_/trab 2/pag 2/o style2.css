@@ -1,0 +1,48 @@
+*{
+	color: #e3b4ca;
+}
+
+body{
+	font-family: "helvetica", sans-serif, monospace;
+	background-image: url("../img/back.jpg");
+	background-color: #ffbdc3;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	font-size: 15px;
+}
+
+h2,h1,a{
+	text-align: center;
+}
+
+img{
+	width: 20%;
+	height: 250px;
+	padding: 0 0 0 40%;
+}
+
+li{
+	font-size: 18px;
+}
+
+#ili{
+	list-style-type: none;
+}
+
+#ulu{
+	padding-inline-start: 0;
+}
+
+p{
+	padding: 0 20% 0 20%;
+
+}
+
+#um{
+	width: 60%;
+	border: white solid 2px;
+}
+
+footer{
+	text-align: center;
+}

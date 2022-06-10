@@ -1,0 +1,20 @@
+ body{ background-image: url(../img/fundo44.png);
+       margin: 100px;
+       background-repeat: no-repeat;
+       background-size: cover;
+ text-align: center;
+ }
+ footer{
+    padding: 10px;
+    background-color: rgb(128, 0,128);
+
+ }
+ h1{
+    color: rgb(75, 0,130);
+    background-color: rgb(218,112, 214);
+    padding-top: 5px;
+ }
+ h2{
+    background-color: rgb(147,112,219);
+    color: rgb(72,61, 139);
+ }

@@ -1,0 +1,57 @@
+/*
+  Curso: Técnico em Informática para Internet
+  Disciplina: Front-End 1
+  Professor: Ricardo Nascimento
+  Estudante: João Vitor Alves Valerio 
+  Turma: 1ºA
+ */
+
+body{
+	background-color: black;
+	color: white;
+	margin-right: 76px;
+	margin-left: 113px;
+	margin-top: 113px;
+	margin-bottom: 76px;
+	font-family: sans-serif;
+}
+
+.banner{
+	text-align: center;
+}
+
+h1{
+	text-align: center;
+	color: #f0e400
+}
+
+h2{
+	color: #f0e400;
+}
+
+h3{
+	color: #f0e400;
+}
+
+.dan{
+	display: inline-block;
+	text-align: center;
+}
+
+.michael{
+	display: inline-block;
+	text-align: center;
+}
+p{
+	font-size: 20;
+}
+
+a{
+	color: #f0e400;
+}
+
+footer{
+	text-align: center;
+	font-size: small;
+	margin-top: 20px;
+}

@@ -1,0 +1,37 @@
+
+
+body {
+    background-image: url(../imgs/690xNxblack_squars.jpg.pagespeed.ic.0302d1e54c.jpg);     
+   
+   text-align:center;
+   margin: 10px;  
+   border: 3px solid powderblue;  
+}
+
+h1 {
+    
+    color:#00FA9A;
+    font-family:“Charis SIL”, serif;
+}
+
+p{ 
+   color:#FFFF00;
+   font-family: "poppins", sans-serif;
+   }
+
+li {
+    color:#E0FFFF;
+    font-family:"Oswald", sans-serif;
+}
+h3{
+    font-family:“Charis SIL”, serif;
+    color:#00FA9A;
+}
+h2{
+    font-family:“Charis SIL”, serif; 
+    color:#00FA9A;
+ }
+
+a{
+    color:#F8F8FF
+ }

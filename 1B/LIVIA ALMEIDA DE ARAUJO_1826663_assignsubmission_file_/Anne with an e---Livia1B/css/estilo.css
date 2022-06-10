@@ -1,0 +1,59 @@
+body {
+	background-image: url(../img/fundo11.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	color: #070c04;
+	font-family: serif;
+	font-size: 12px;
+}
+#index {
+	margin: 50px;
+}
+body {
+	font-size: 16px;
+	margin-right: 40px;
+}
+h1 {
+	background-color: #603C14;
+	text-align: center;
+	color: white ;
+	font-size: 47px;
+}
+a {
+	
+	color: #FF9828;
+}
+#menu {
+	background-color:  rgba(246, 226, 181, 0.8);
+	margin-top: 100px;
+	margin-bottom: 200px;
+}
+#elenco {
+	text-align: center;
+}
+
+div {
+	float: left;
+}
+footer {
+	background-color: rgba(255, 152, 40, 0.7);;
+    padding-top: 2px;
+    padding-bottom: 2px; 
+    padding-left: 50px;
+    margin-top: 40px;
+
+}
+h3 {
+	margin-left: 50px;
+}
+#menuUM {
+	color: #FF9828;
+	background-color: rgba(246, 226, 181, 0.5);
+	background-opacity: 20px;
+}
+#peticao {
+	margin-left: 50px;
+}
+#texto {
+	margin-left: 25px;
+}

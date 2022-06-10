@@ -1,0 +1,45 @@
+body{
+	background-color: #b5994a;
+}
+h1{
+	text-align: center;
+	background-color: #8B4513;
+	color: #f7f3e9;
+	font-family: "Georgia", serif;
+}
+h2{
+	text-align: center;
+	background-color: #8B4513;
+	color: #f7f3e9;
+	font-family: "Georgia", serif;
+}
+p{
+	text-align: center;
+	font-family: "Trebuchet MS", sans-serif;
+	margin-left: 50px;
+	margin-right: 50px;
+}
+figcaption{
+	text-align: center;
+	font-family: "Georgia", sans-serif;
+	color: #f7f3e9;
+}
+h3{
+	text-align: center;
+	background-color: #d1b771;
+	color: #8B4513;
+	font-family: "Georgia", serif;
+}
+figure{
+	text-align: center;
+}
+a{
+	text-align: center;
+}
+footer{
+	text-align: center;
+	background-color: #8B4513;
+	color: #f7f3e9;
+	font-family: "Georgia", serif;
+	padding-bottom: 1px;
+}

@@ -1,0 +1,59 @@
+body{
+		background-image: url(../img/parede2.jpg);
+		margin: 30px 80px 30px 80px;
+		font-family: monospace;
+		text-align: justify;
+		color: white;
+}
+
+h1{
+		padding-left: 50px;
+    	padding-top: 10px;
+    	padding: 10PX;
+		background-color: #6959CD;
+}
+
+#clique{
+		color: white;
+}
+
+#pagina{
+		color: white;
+}
+
+figure{
+		float: left;
+}
+
+.sam{
+		font-size: 18px;  
+}
+
+#samW{
+		font-size: 27px;
+}
+
+#bioS{
+		font-size: 27px;
+}
+
+#bioSam{
+		font-size: 18px;
+}
+
+.fotoZ{
+		float: left;
+}
+
+#zoe{
+		font-size: 27px
+}
+
+#zoeG{
+		font-size: 18px;
+}
+
+#sig{
+		font-size: 27px;
+		font-size: 18px;
+}

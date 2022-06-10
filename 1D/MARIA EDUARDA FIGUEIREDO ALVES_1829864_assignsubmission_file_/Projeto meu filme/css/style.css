@@ -1,0 +1,25 @@
+body{
+	background-image: url(../img/quadriculado.jfif);
+	font-family: sans-serif;
+	text-align: center;
+}
+h1{
+	color: black;
+	background-color: #fa5252;
+}
+p{
+	color: black;
+}
+h2{
+	color: #701111;
+}
+img{
+	max-width: 250px;
+	width: auto;
+}
+footer{
+	color: #eb3434;
+}
+a{
+	color: red;
+}

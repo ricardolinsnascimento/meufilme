@@ -1,0 +1,47 @@
+body{
+	background-color:#4B0082;
+	margin-left: 
+}
+h1{
+	color: #FFD700;
+	text-align: justify;
+	font-family:sans-serif;
+
+}
+h2{
+	color: #FFD700;
+	text-align: justify;
+	font-family:sans-serif;
+}
+ul{
+	color: #FFD700;
+	text-align: justify;
+	font-family:sans-serif;
+}
+figcaption{
+	color:#FFD700;
+	text-align: justify;
+	font-family:sans-serif;
+}
+figure{
+		align-items: center;
+		text-align: justify;
+		font-family:sans-serif;	
+	}
+p{
+	color:#FFD700;
+	text-align: justify;
+	font-family:sans-serif;
+}
+hr{
+	border-color:#FFD700;
+}
+a{
+	color:#00BFFF;
+}
+footer{
+	padding: 10px;
+	color:black;
+	background-color:#FFD700;
+	text-align: center;
+}

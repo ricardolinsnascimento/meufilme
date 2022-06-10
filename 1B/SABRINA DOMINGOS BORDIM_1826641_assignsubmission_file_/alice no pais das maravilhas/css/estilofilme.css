@@ -1,0 +1,29 @@
+body{
+	background-image: url(../img/alice.jpg);
+	background-size: cover;
+	font-family: sans-serif;
+	text-align: center;
+	color: rgb(173, 216, 230);
+	
+}
+h1{
+	
+}
+h2{
+    color: rgb(255,255,255);
+	
+}
+p{
+
+	padding-left: 400px;
+	padding-right: 400px;
+}
+footer{
+	background-color: rgb(0,0,0);
+	color: rgb(255, 255, 255);
+	padding-top: 25px;
+	padding-bottom: 25px;
+	padding-left: 10px;
+	padding-right: 10px;
+	margin-top: 20px;
+}

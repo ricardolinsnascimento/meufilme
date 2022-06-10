@@ -1,0 +1,21 @@
+body {
+	text-align:center;
+	font-family: Verdana, Arial Helvetica, sans-serif;
+	background-image: url(../img/fundo.jpg);
+	margin:100px;
+	background-repeat: no-repeat;
+	background-size: cover;
+   }
+h1 {color:rgb(255,255,0);
+	
+	}
+h2 {color:rgb(255,255,0);
+	
+	}
+p {color:rgb(255,255,255);
+
+	}
+footer {background-color: rgb(255,255,0);
+margin:100px;
+color: rgb(0,0,0);
+}

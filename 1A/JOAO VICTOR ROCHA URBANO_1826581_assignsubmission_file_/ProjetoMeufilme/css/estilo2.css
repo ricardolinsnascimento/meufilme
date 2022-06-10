@@ -1,0 +1,23 @@
+body{
+    text-align: center;
+	background-image: url(https://image.tmdb.org/t/p/original/j71WSTV2pv7xg2TimbFxtCmVjdQ.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+
+    }h1{
+    	color: #CB3B3A;
+    } p{
+    	color: white;
+    	font-size:20px;
+    	font-family:cursive;
+    }ul{
+        margin-right: 400px;
+        margin-left: 400px;
+        background-color: #332E2E; 
+    } li{
+        color: black;
+    }a{
+        font-family: serif;
+        font-size: 20px;
+        color: #CB3B3A;
+    }

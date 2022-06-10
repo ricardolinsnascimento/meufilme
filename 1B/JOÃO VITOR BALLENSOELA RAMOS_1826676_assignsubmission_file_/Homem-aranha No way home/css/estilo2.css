@@ -1,0 +1,23 @@
+body{
+	background-color: #E6E6FA
+	
+}
+h3{
+	margin-left: 25px;
+	margin-right: 500px;
+	border-style: outset;
+	border-width: 8px;
+	border-color: #708090
+}
+h1{
+	margin-left: 500px;
+}
+h2{
+	margin-left: 20px;
+}
+p{
+	border-style: double;
+	border-width: 7px;
+	margin-right: 900px;
+	border-color: #708090
+}

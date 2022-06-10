@@ -1,0 +1,43 @@
+body{color:rgb(255,255,255);
+  text-align: center;
+  
+  background-image: url(../imagem/FUNDOO.jpg);
+font-family: Helvética, "Noir Pro", Lorin, sans-serif;
+	 background-repeat: no-repeat;
+   background-size: cover;
+	background-position: center top;
+  
+}
+h1{
+	color:rgb(0,0,0);
+}
+p{
+	color:rgb(0,0,0);
+}					
+h2{color:rgb(21,244,238);
+}
+ul{
+	border-color:rgb(11,11,69);
+	border-style:double;
+	border-width:5px;
+}
+
+
+  footer{
+  	background-color: rgb(176,196,222);
+  padding-top:10px;
+  padding-bottom: 10px;
+  padding-left: 10px;
+  margin-top: 10px;
+  }
+  strong{
+    color:rgb(0,0,0);
+    padding: 10px;
+    margin: auto;
+  }
+  main{
+
+  }
+  figcaption{
+    color:rgb(0,0,0);
+  }

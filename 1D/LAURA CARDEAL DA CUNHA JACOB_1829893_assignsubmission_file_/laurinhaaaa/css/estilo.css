@@ -1,0 +1,22 @@
+body{
+	font-family: sans-serif;
+	text-align: center;
+	background-color: #E0FFFF
+	border-style: solid;
+	margin: 15 px;
+	padding: 30 px;
+	border-width: 20 px;
+	
+}
+h1{
+	color: #000000
+	background-color:#E0FFFF;
+}
+p{
+	color: #000000
+	background-color:#E0FFFF;
+}
+footer{
+	background-color: ;
+}
+

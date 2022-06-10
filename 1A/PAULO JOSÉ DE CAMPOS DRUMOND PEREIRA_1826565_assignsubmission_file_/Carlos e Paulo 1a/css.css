@@ -1,0 +1,19 @@
+body {
+	background-image: url(img1/sorrisso.webp);
+	background-size: cover;
+	text-align: center;
+	color: darkgreen;
+	font-family: serif;
+	background-size: 8;
+}
+ul{
+	list-style-type: none;
+}
+a {
+		color: darkgreen;
+}
+footer{
+	background-color: black;
+	padding: 30px;
+
+}

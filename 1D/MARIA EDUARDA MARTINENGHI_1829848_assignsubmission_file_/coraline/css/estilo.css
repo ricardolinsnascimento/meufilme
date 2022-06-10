@@ -1,0 +1,36 @@
+h1 {
+	margin-left: 10px
+	}
+
+#centro {
+	text-align: center;
+	}
+
+body {
+		background-color: #B0E0E6;
+	}
+
+h3 { 
+	margin-left: 30px; 
+	}
+
+footer {
+	background-color: #6495ED;
+	padding-top: 3px;
+	padding-bottom: 3px;
+	text-align: center;
+	}
+
+p {
+	margin-left: 10px;
+	font-size: 17px;
+	}
+
+#trailer {
+	font-size: 20px;
+	}
+
+
+img {
+	margin-left: 10px;
+	}

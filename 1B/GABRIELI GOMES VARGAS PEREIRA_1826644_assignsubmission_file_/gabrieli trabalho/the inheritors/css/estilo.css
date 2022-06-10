@@ -1,0 +1,34 @@
+body{
+	background-image: url(../img/foto.preto.jpg);
+	background-color: #00008B
+	margin-left:100px;}
+
+li{
+    margin-left: 100px;
+    color: #00FFFF;}
+
+h1{ margin-left: 100;
+	color: 	#00E5EE;ss}
+
+h2{
+    margin-left:100px;
+    color: #8B008B;}
+
+p{
+    margin-left: 50px;
+   	color: #FFFFFF;}
+
+strong{
+	margin-left: 10px;
+	color: 	#FFD700;}
+h3{
+
+	margin-left: 300px;
+	color: 	#FFFF00;}
+
+ul{ border-style: double;
+    background-color: #FF6EB4}
+
+footer{
+	margin-left: 300px;
+    color: #FF1493;}

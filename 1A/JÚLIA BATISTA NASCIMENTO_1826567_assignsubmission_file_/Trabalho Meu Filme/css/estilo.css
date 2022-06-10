@@ -1,0 +1,45 @@
+body {
+	background-color: rgb(131,111,255);
+	/*color: rgb(255,20,147);*/
+	color: white;
+	font-size: 20px;
+	margin: 25px;
+}
+h1 {
+	color: black;
+	font-size: 30px;
+}
+h2 {
+	color: black;
+	font-size: 25px;
+}
+footer {
+	text-align: center;
+	padding: 25px;
+	color: rgb(255,20,147);
+}
+img#fundo {
+	margin-left: 425px;
+}
+a#link1 {
+	color: black;
+	font-size: 30px;
+}
+a#link2 {
+	color: rgb(255,20,147);
+	margin-left: 610px;
+}
+a#link3 {
+	color: rgb(255,20,147);
+	margin-left: 610px;
+}
+ol {
+	/*margin-left: 500px;*/
+	color: black;
+}
+a {
+	color: black;
+}
+p#paragrafo {
+	text-align: center;
+}

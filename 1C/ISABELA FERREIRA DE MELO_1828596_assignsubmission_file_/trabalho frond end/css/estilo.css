@@ -1,0 +1,72 @@
+body{
+          background-color: #D3D3D3; 
+          text-align: center;
+          background-image: url(../img/blue.png); 
+           border-width: 30px;
+          	 border-style: dashed;
+          	 border-color: white
+       }
+        h1{
+          color: black;
+        }
+        h2{
+        	color: black;
+        }
+        figcaption{
+        	color: black;
+        }
+          p{
+            color: black;
+         } 
+{
+  font-family: "Gill Sans Extrabold", Helvetice, sans-serif
+}
+
+{
+  font-family: Courier, "Lucida Console", monospace;
+}
+
+<!--exempleserif-->
+{
+  font-family:  Times, "Times New Roman", Georgia, serif;   
+}
+
+{
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+
+{
+  font-family: "Lucida Console", Courier, monospa
+}
+
+#diretor{
+  height: 300px;
+  width: 300px;
+}
+#isabel{
+  height: 400px;
+  width: 300px;
+}
+
+#Nate{
+
+  height: 500px;
+  width: 400px;
+}
+#Summer{
+
+height: 500px;
+width: 400px;
+
+}
+#Jack{
+
+  height: 400px;
+  width: 400px;
+}
+#Browne{
+
+  height: 500px;
+  width: 400px;
+}
+

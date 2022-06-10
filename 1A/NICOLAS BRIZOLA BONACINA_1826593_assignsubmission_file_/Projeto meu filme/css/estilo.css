@@ -1,0 +1,37 @@
+body{
+	font-family:"fantasy;", star wars, sans-serif
+	color: red;
+	background-image:url(../img/TheFlashBG.png);
+	background-size:cover;
+
+}
+h1{
+	color: red;
+	background-color: 
+}
+p{
+	color:#f7f7f7;	
+}
+	
+ul{
+	color:#f7f7f7
+	border-style: solid;
+	border-style: left;
+	border-width:10px;
+	margin:400px;
+
+	text-align: center;
+}
+footer{
+	padding: 10px;
+	color: #ffff;
+	text-align: center;
+}
+ol{
+	color:#f7f7f7
+}
+h2{
+	color:#f7f7f7
+}h1{
+	color:#ffbf00
+}

@@ -1,0 +1,39 @@
+body{
+text-align:center; 
+font-family:"sans serif";
+background-color: 	#B6B6B4;
+margin-left: 40px;
+margin-top: 40px;
+}
+ 
+ 
+ img{
+ max-width: 350px;
+ width:auto;
+ }
+h1{
+color: #EE0000;
+ background-color:black;
+
+
+
+} 
+footer{
+	color: #EE0000;
+background-color:black
+}
+
+p{
+color: #EE0000;
+ 
+
+}
+
+li{
+    list-style: none;
+}
+
+h2{
+   color: #EE0000;
+background-color:black 
+}

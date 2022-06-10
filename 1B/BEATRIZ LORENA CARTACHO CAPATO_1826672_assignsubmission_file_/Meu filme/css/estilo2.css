@@ -1,0 +1,28 @@
+h1{
+	text-align: center;
+}
+body{
+	color: rgb(0,0,0);
+	background-color: rgb(255,218,185);
+}
+h2{
+	color: rgb(0,0,0);
+	font-size: 25px;
+}
+p{
+	color: rgb(0,0,0);
+	font-size: 25px; 
+}
+div{
+	float: left;
+}
+li{
+	font-size: 25px;
+}
+a{
+	color: rgb(0,0,0);
+}
+footer{
+	background-color: rgb(244,164,96);
+	text-align: center;
+}

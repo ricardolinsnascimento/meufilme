@@ -1,0 +1,46 @@
+body{
+	font-family: Georgia, "Times New Roman", Times, serif;
+	background-color: rgb(204, 204, 204);
+}
+img{
+	margin: 20px 50px 20px 20px;
+	border: double;
+}
+h1{
+	background-color: rgb(255, 43, 43);
+	padding:10px 1250px 10px 20px;
+}
+h2{
+	color: rgb(48, 40, 26);
+	background-color: rgb(158, 158, 158);
+	padding:10px 1250px 10px 100px;
+}
+p{
+	color: rgb(66, 66, 66);
+	background-color: rgb(191, 187, 187); 
+	border: double;
+	padding: 10px 10px 10px 0px;
+	
+}
+a{
+	color: rgb(255, 0, 0);
+	padding: 20px 0px 20px 0px;
+	margin: 10px 0px 0px 0px;
+}
+figcaption{
+	background-color: rgb(179, 177, 177);
+	color: rgb(0, 0, 0);
+	padding: 10px 20px 10px 20px;
+}
+footer{
+	font-size: 18px;
+	background-color: rgb(181, 181, 181);
+	padding: 10px 10px 10px 10px;
+	margin-top: 20px;
+	margin-left: 5px;
+	border:double;
+}
+li{
+	padding: 3.5px 0px 3.5px 0px;
+}
+

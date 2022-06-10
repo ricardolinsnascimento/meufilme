@@ -1,0 +1,35 @@
+h1{color: black;
+background-image: url(../img/fundoletra2.jpg);
+}
+p{color: white;}
+body{background-image: url(../img/fundo1.jpg);
+	border-style: dashed;
+ 	border-width: 50px;
+	border-color: gray;	 
+	font-family: sans-serif;
+	margin: 50px 200px 50px 200px;
+	padding: 10px 10px 10px 10px;
+	text-align: center;
+}
+figcaption{color: white;
+}
+ul{color: white;
+}
+#texto{
+	font-size: 30px;
+}
+#dados{
+	font-size: 20px;
+}
+#titulo{
+	font-size: 25px;
+}
+#intro{
+	font-size: 30px;
+}
+#trailer{
+	font-size: 30px;
+}
+a:visited {
+  color: white;
+}

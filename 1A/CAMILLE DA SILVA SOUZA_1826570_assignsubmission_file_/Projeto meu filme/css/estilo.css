@@ -1,0 +1,27 @@
+body{
+	background-image: url(../img/floresta.jpg);
+	font-family: sans-serif;
+	color: #FFFFFF;
+	margin: 100px;
+}
+footer{
+	background-color: #8B0000;
+	font-family: sans-serif;
+	padding: 10px;
+	text-align: center;
+}
+ul{
+	background-color: #FFFFFF;
+	color: #000000;
+	padding: 10px;
+}
+figure{
+	text-align: center;
+}
+h1{
+	font-family: serif;
+	color: #F0000C;
+}
+h2{
+	font-family: serif;
+}

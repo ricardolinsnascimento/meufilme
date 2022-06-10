@@ -1,0 +1,51 @@
+h1{	color: black;
+	margin-left: 30p
+}
+h2{
+	font-family: courier,serif;
+	color: red;	
+}
+#jesse{
+	margin-left: 83px;
+}
+#mark{
+	margin-left: 103px;
+}
+#woody{
+	margin-left: 83px;
+}
+#dave{
+	margin-left: 113px;
+}
+#isla{
+	margin-left: 114px;
+}
+#morgan{
+	margin-left: 96px;
+}
+#michael{
+	margin-left: 90px;
+}
+#melanie{
+	margin-left: 85px;
+}
+#louis{
+	margin-left: 75px;
+}
+#biografia{
+	margin-right: 800px;
+}
+p{
+	font-family: arial,sans-serif;
+	color: black;
+	margin-right: 800px;
+}
+footer{
+	padding: 10px;
+	color: #ffffff;
+	background-color: darkblue;
+	text-align: center;
+}
+#rodape{
+	color: white;
+}

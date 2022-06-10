@@ -1,0 +1,52 @@
+
+body{   text-align: center;
+		border-width: 7px;
+		border-style: dotted;
+		border-color: goldenrod;
+		background-color:mediumpurple;
+		font-family: "Helvetica";
+		margin: 50px 50px 50px 50px;
+		color: white;
+		padding: 20px 30px 20px 30px;
+}
+h2{
+	color: mediumpurple;
+	background-color: white;
+	border-color: goldenrod;
+	border-style: groove;
+}
+
+
+p{ 
+ 	color:white ;
+}
+
+ul{
+		
+		border-width: 7px;
+		color: white;
+}
+footer{
+	background-color:purple;
+	margin: 100px 100px 100px 100px;
+	color: white;
+}
+figure{
+		border-width: 7px;
+}
+strong{
+	color: purple;
+	background-color: white;
+
+}
+h4{
+	color: mediumpurple;
+	background-color: white;
+	border-color: goldenrod;
+	border-style: groove;
+}
+h3{
+	border-style: hidden;
+	border-color: purple;
+}
+

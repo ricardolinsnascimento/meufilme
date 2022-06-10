@@ -1,0 +1,56 @@
+body{
+	background-image:url(../IMG/azul.jpg);
+	background-size: cover ;
+	background-repeat: no-repeat;
+	font-family:monospace;
+	text-align: center;
+
+
+}
+ul{
+	color: #708090;
+
+	background-repeat: no-repeat;
+	text-align: center;
+}
+#p{
+
+}
+#topo{
+	text-align: center;
+}
+p{
+
+	margin-top: 20px;
+	margin-bottom: 50px;
+	margin-right: 200px;
+	margin-left: 200px;
+}
+
+ol{
+	margin-bottom: 40px;
+	margin-top: 20px;
+	margin-left: 550px;
+	margin-right: 500px;
+	text-align: center;
+
+}
+div{
+	float: left;
+}
+footer{
+	margin-top: 140px;
+	color: #008080;
+	margin-left: 200px
+	margin-bottom:200px; 
+}
+
+img{
+		border: groove;
+	border-width: 20px;
+}
+#p{
+	margin-left: 420px;
+	margin-bottom: 60px;
+	margin-top: 60px;
+}

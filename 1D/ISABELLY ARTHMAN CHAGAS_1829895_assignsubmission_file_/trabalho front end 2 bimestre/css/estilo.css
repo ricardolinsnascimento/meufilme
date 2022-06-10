@@ -1,0 +1,33 @@
+ h1{
+     font-family: Arial Black;
+     color: #800000;
+     padding: 70px;
+ }
+h2 {
+	color: red;
+  font-family: Times New Roman;
+}
+p {
+	color: rgb(254,254,254);
+  font-family: Bookman;
+}
+li {
+	color: rgb(254,254,254);
+
+}
+ body {
+      text-align: center;
+      border-color: #8B0000;
+      border-style: inset;
+      border-width: 4px;
+      background-color: black;
+      margin-left: 50px;
+      margin-right: 50px;
+      margin-top: 30px;
+      margin-bottom: 30px;       
+ }
+footer {
+	color: rgb(254,254,254);
+	background-color: #800000;
+	padding: 20px 30px;
+}

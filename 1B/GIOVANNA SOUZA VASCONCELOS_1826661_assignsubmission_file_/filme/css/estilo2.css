@@ -1,0 +1,30 @@
+
+h1 {
+    color:#F0F8FF;
+    background-color:#5E0E6F ;
+    border-color:#781D8D;
+    border-style: solid;
+    border-width: 6px;
+    font-family: Trebuchet MS, sans-serif;
+    text-align: center;
+}
+body {
+    color:#F0F8FF;
+    background-image: url(../img/fundo3.png);
+    background-image:cover;
+    background-size:20000px;
+    font-family: Trebuchet MS, sans-serif;
+}
+p {
+    font-size: 17px;
+
+}
+a {
+    color:white;
+    font-size: 17px;
+
+}
+footer {
+    background-color:#4B0082; 
+    text-align: center;
+}

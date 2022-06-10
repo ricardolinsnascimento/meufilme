@@ -1,0 +1,48 @@
+h1{
+	color: #FFF68F;
+	background-color:rgb(115,23,23);
+	margin: 60px;
+	
+}
+body{
+	background-color: white;
+	color: black;
+	text-align: center;
+	border-style: solid;
+	font-family: 
+	margin-left:25px;
+
+}
+p{
+	background-color: #FFE4C4;
+	font-family: serif;
+	font-size: 20px;
+	margin: 40px;
+}
+ul{
+	background-color:rgb(115,23,23);
+	color: white;
+
+}
+a{
+	color:white;
+
+}
+footer{
+	color: white;
+}
+#destaque{
+	font-size: 30px;
+	color:rgb(115,23,23);
+	margin-left: 40px;
+	margin-right: 40px;
+}
+main p {
+	background-color: rgb(115,23,23);
+}
+#borda{
+	margin-top: 50px;
+}
+.nomes{
+	color: rgb(115,23,23);
+}

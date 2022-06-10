@@ -1,0 +1,45 @@
+body{
+	background-color: #1C1C1C;
+	color: #DCDCDC;	
+	font-family: sans-serif;
+}
+h1{
+    text-align: right;
+    background-image: url(../img/klaus_img_2.png);
+    margin: 40px  60px 60px 60px;
+    padding: 125px; 
+    background-repeat: no-repeat; 
+ }
+footer{
+    padding-top: 25px ;
+    padding-bottom: 25px ; 
+    background-color: #000000;      
+}	
+p{
+    margin-left: 100px;
+    margin-right: 100px;
+}
+h2{
+	margin-left: 85px;
+}
+a{
+	color: #DCDCDC;
+	margin: 45px;
+}
+
+<!-- personagens -->
+
+#perso{
+	border: solid;
+	border-color: #DCDCDC;
+	margin-left: 45px;
+	margin-right: 800px;
+}
+.elenco{
+	text-align: center;
+	color: #F8F8FF;
+	background-image: url(../img/fundo.png);
+	padding: 20px;
+	margin-right: 200px;
+	margin-left: 200px;
+}

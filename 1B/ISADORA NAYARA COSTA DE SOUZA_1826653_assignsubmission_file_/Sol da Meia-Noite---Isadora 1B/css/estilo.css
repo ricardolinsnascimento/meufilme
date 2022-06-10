@@ -1,0 +1,40 @@
+div{
+	float: left;
+}
+body{
+	border-color:rgb(0 0 205);
+	background-image: url(../img/fundo.jpg);
+	background-size: no-repeat; 
+	background-repeat: cover;
+	font-family: Arial,sans-serif;
+}
+h1{
+	color:#6495ED;
+	background-color:#191970;
+}
+p{
+	color:#7EC0EE;
+	background-color:#27408B;
+}
+h2{
+	padding: 10px
+	background-color:#7B68EE;
+	color:#6CA6CD;
+}
+ul{
+	color: #000000;
+	background-color:#36648B;
+	border-style: double;
+	border-color: rgb(25,5,8);
+	border-width: 5px;
+}
+footer{
+	background-color: #9FB6CD;
+	padding-top:10px;
+	padding-bottom:10px;
+	padding-left:20px;
+	margin-top:20px;
+}
+h3{
+	color:#6CA6CD; 
+}

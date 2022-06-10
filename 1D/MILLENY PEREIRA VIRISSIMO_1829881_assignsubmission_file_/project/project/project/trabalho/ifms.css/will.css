@@ -1,0 +1,21 @@
+body { 
+		 text-align: center;
+		 font-family: basic_2, "Basic Light";
+		 background-color: rgb(220,220,220);
+		 margin-right: 50px;
+		 margin-left: 50px;
+		 font-size: 22px;
+
+ }
+
+ ul{ 
+ 		text-align: left;
+ 		background-color: rgba(0, 0, 0, 0.11);	
+ }
+
+ footer{ 
+ 		 background-color: rgba(0, 0, 0, 0.11);
+  }
+
+ 		
+ 

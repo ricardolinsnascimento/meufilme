@@ -1,0 +1,25 @@
+body{
+    background-color: #211C1C;
+    background-image: url(https://image.tmdb.org/t/p/original/j71WSTV2pv7xg2TimbFxtCmVjdQ.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+
+}
+h1{
+	text-align: center;
+	background-color: #332E2E;
+	margin-right: 550px;
+	margin-left: 550px;
+	font-size: 40px;
+	font-family: serif;
+	color: #CB3B3A;
+}
+p{
+	color: white;
+	font-size: 30px;
+	font-family: cursive;
+}
+a{
+	font-size:20px;
+	color: #CB3B3A;
+}
