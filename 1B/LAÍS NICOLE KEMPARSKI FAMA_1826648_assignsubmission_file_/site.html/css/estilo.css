@@ -24,16 +24,16 @@ a{
 }
 p{
 	background-color:black;
-	color:#a20202;
+	color:white;
 }
 ul{
 	border-style:double; 
-	color: #6a0000;
+	color: white;
 	border-style: #b10005;
 	border-width: 3px;
 }
 footer{
-	background-color:red; 
+	background-color:white; 
 	padding-top:10px;
 	padding-bottom:20px;
 	padding-left:20px;
