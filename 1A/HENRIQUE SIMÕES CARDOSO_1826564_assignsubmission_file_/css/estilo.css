@@ -1,3 +1,36 @@
 body{
-	background-image: url(..img/fundo2.jpeg);
+	background-image: url(../img/doctoredit.png);
+	font-family: sans-serif;
+	font-size: 25px;
+	background-attachment: fixed;
+	background-size: cover;
+}
+h1{
+	font-family: sans-serif;
+	color: darkred;
+	background-image: url(../img/fundocerto.jpg);
+}
+h3{
+	color: darkred;
+	background-image: url(../img/fundocerto.jpg);
+}
+p{
+	font-size: 30px;
+	text-align: center;
+	color: darkred;
+	background-image: url(../img/fundocerto2.jpg);
+}
+h2{
+	color: darkred;
+	background-image: url(../img/fundoazul.jpg);
+}
+a{
+	background-image: url(../img/fundoazul.jpg);
+	padding: 20px 25px 20px 35px;
+	margin: 35px 50px 35px 30px;
+	font-family: fantasy;
+}
+iframe{
+	text-align: center;
+	text-align: !important;
 }
