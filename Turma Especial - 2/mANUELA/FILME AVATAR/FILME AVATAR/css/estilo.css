@@ -1,0 +1,74 @@
+body{
+		background-image: url(../img/parede1.jpg);
+		margin: 30px 80px 30px 80px;
+		font-family: monospace;
+		text-align: justify;
+	}
+
+#pagina-atores{
+	background-image: url(../img/fundoazull.jpg);
+}
+
+h1{
+		padding-left: 50px;
+    	padding-top: 10px;
+    	padding: 10PX;
+		background-color: #E0FFFF;
+		
+	}
+
+#imagem-capa{
+		float: right;
+	
+	}
+
+
+
+footer{
+		padding-left: 50px;
+    	padding-top: 10px;
+    	padding: 10PX;
+		background-color:  #E0FFFF;
+}
+
+.texto{
+	font-size: 15px;
+}
+#clique{
+		color: white;
+}
+
+#pagina{
+		color: white;
+}
+
+.sam{
+		font-size: 18px;  
+}
+
+#samW{
+		font-size: 27px;
+}
+
+#bioS{
+		font-size: 27px;
+}
+
+#bioSam{
+		font-size: 18px;
+}
+
+
+#zoe{
+		font-size: 27px
+}
+
+#zoeG{
+		font-size: 18px;
+}
+
+#sig{
+		font-size: 27px;
+		font-size: 18px;
+
+}

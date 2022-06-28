@@ -1,0 +1,53 @@
+body{  
+	background-color: rgb(245,255,250);
+	margin-left: 25PX ;
+	margin-top: 30px;
+	font-family:"Gill Sans Extrabold", Helvetica, sans-serif;
+
+}
+
+h1{ 
+	padding : 10px 10px 10px 10px ;
+	color: #006400; 
+	background-color: rgb(0, 229, 238); 
+	border-color:#00E5EE;
+	border-style: solid;
+	border-width: 10px;
+}
+
+h2{ margin-top: 40px;
+	background-color: rgb(0, 229, 238);
+
+
+ }
+
+ h3{
+ 	background-color: rgb(0, 229, 238);
+ }
+
+
+p{
+	font-size:15px;
+ 	color: #006400; 
+ 	background-color: #B0E0E6; 
+ }
+
+footer{
+	background-color: rgb(245,245,245);
+	padding-top:10px; 
+	padding-left:10px;
+	padding-right:5px;
+	padding-bottom:10px;
+}
+
+#borda{
+	border-style: solid;  
+	border-width: 1px;
+
+}
+
+img{
+	max-width: auto;
+	max-height:300px; 
+	
+}

@@ -1,0 +1,49 @@
+.logo{
+	width: 100%;
+	height: 250px;
+	background-color: #123650;
+}
+.img1{
+
+	width: 60%;
+	height: 100%;
+	float: left;
+	margin-left: 20%;
+}
+body{
+	background-color: #123650;
+}
+
+.andy{
+	width: 350px;
+	height: 550px;
+	margin-left: 40%;
+}
+
+h1{
+	margin-left: 44%;
+	color: yellow;
+}
+
+h2{
+	color: yellow;
+}
+
+.Melissa{
+	width: 350px;
+	height: 550px;
+	margin-left: 40%;
+}
+
+.andre{
+	width: 350px;
+	height: 550px;
+	margin-left: 40%;
+}
+
+li{
+	color: white;
+}
+a{
+	color: white;
+}

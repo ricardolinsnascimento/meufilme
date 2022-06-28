@@ -1,0 +1,39 @@
+body{
+	background-color: rgb(135,206,250);
+	margin-left:100px;
+	margin-right: 100px;
+
+}
+h1{
+	border-style:solid;
+	border-width: 15px;
+	border-color: rgb(230,230,250); 
+	text-align: center;
+	padding: 10px;
+	color: rgb(0,0,205);
+	background-color: rgb(100,149,237);
+
+}
+h2{
+	background-color: rgb(230,230,250);
+	color:rgb(0,0,139);
+}
+h3{
+	background-color: rgb(230,230,250);
+	color:rgb(0,0,139);
+}
+
+p{
+	color: rgb(0,0,205);
+}
+ul{
+	border-style: solid;
+	border-width: 10px;
+}	
+
+footer{
+	padding: 10px;
+	color: rgb(0,0,205);
+	background-color: rgb(100,149,237);
+    text-align: center;
+}

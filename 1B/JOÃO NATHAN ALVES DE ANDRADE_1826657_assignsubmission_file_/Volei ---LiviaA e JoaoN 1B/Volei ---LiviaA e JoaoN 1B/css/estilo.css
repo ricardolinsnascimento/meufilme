@@ -1,0 +1,47 @@
+body {
+	background-color: #bfefff;
+	background-image: linear-gradient(43deg, #bfefff 0%, #ffffff 61%, #ffd770 100%);
+	font-family: Palatino,serif;
+}
+
+h1 {
+	background-color: rgba(255, 215, 0, 0.4); 
+	text-align: center;	
+}
+#caixa {
+	border-color: rgb(207, 207, 207);
+	border-style:dotted;
+	background-color: white;
+	margin-right: 1000px;
+}
+h2 {
+	background-color: rgba(191, 239, 255, 0.5);
+	padding: 0px 30px 0px 30px;
+	text-align: center;
+}
+
+footer {
+	padding: 20px 35px 20px 35px;
+	background-color: rgba(135, 206, 235, 0.7);
+}
+
+.curiosidades {
+	margin-left: 10px;
+}
+#caixa1 {
+	border-color: rgb(207, 207, 207);
+	border-style:dotted;
+	background-color: white;
+	padding: 15px 30px 15px 30px;
+	margin-right: 1000px;
+}
+h3{
+	background-color: rgba(255, 215, 0, 0.35);
+	padding-left: 30px;
+}
+div {
+  text-align: center;
+}
+figcaption {
+	text-align: center;
+}

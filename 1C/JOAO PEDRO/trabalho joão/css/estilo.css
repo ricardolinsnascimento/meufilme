@@ -1,0 +1,27 @@
+body{
+	background-image: url(../img/fundo.jpg);
+    text-align:center;
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+h1{
+	color: rgb(217, 7, 7);
+	background-color: rgb(10, 10, 10);
+
+}
+p{
+	color: black;
+}
+h2{
+color: rgb(217, 7, 7);
+background-color: rgb(10, 10, 10);
+}
+p{
+	color:rgb(255, 255, 255);
+}
+
+a{
+	color:rgb(0, 255, 229);
+}
+footer{
+	background-color: rgb(217, 7, 7) ;
+}
