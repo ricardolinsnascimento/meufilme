@@ -1,0 +1,15 @@
+<!--Desenvolvido por Juan-->
+<!DOCTYPE html>
+<html>
+	<head>
+		<title></title>
+		<meta charset="utf-8">
+		<link rel="stylesheet" type="text/css" href="css\estilo.css">
+	</head>
+	<body>
+
+	</body>
+	<footer>
+		
+	</footer>
+</html>

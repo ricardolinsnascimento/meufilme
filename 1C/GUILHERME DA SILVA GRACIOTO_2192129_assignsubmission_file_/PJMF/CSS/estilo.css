@@ -1,0 +1,40 @@
+h1{
+	background-color: #808080;
+	text-align: left;
+}
+body{
+	background-color: #A9A9A9;
+	font-family: sans-serif;
+	text-align: center;
+
+}
+
+h2{
+	background-color: #696969;
+	margin-left: 500px;
+	margin-right: 500px;
+	font-size: 30px;
+	text-align: center;
+	padding: 15px
+}
+ul{
+	text-align: center;
+}
+h3{
+	background-color: #696969;
+
+}
+li{
+	list-style-position: inside; 
+}
+p{
+	background-color: #808080;
+	font-size: 25px;
+	margin-left: 700px;
+	margin-right:700px;
+}
+footer{
+	padding: 5px;
+	background-color: #808080;
+	text-align: center;
+}

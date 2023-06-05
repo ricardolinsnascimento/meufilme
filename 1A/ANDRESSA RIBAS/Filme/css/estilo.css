@@ -1,0 +1,24 @@
+body{
+	margin: 40px 30px 40px 30px;
+	padding: 20px;
+	background-color: #6495ED;
+	color: black;
+	font-family: sans-serif;
+	text-align: center;
+	}
+footer{
+	background-color: 	#708090;
+	color: black;
+	padding: 10px;
+	text-align: center;
+	}
+h1{
+	border-color: 	#191970;
+	border-style: solid;
+	border-width: 4px
+}
+h2{
+	border-color: 		#0000CD;
+	border-style: solid;
+	border-width: 2px
+}

@@ -1,0 +1,38 @@
+body{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	background-image: url(../img/batma.png);
+	background-color: black;
+	color: white;
+	margin: 30px 40px 30px 40px
+}
+h1{
+	color: red;
+	background-image: url(../img/batmam.png);
+	padding: 20px;
+	text-align: center; 
+}
+img{
+	margin: center;
+}
+figcaption{
+	margin-left: 50px;
+}
+img{	
+	margin-left: 50px;
+}
+p{
+	color: rgb(255,255,255);
+	font-size: 20px;
+}
+figure{
+	margin-bottom: 50px;
+}
+a{
+	color: yellow; 
+}
+footer{
+	background-image: url(../img/pauro-e-lusca.png);
+	padding: 20px;
+	text-align: center;
+
+}

@@ -1,0 +1,32 @@
+body{
+	background-color: rgb(212, 121, 121);
+	margin: 30px;
+}
+
+h1{
+	background-color: rgb(240, 223, 225);
+	border: double;
+}
+
+h2{
+		background-color: rgb(240, 223, 225);
+	border: double;
+}
+
+
+img{
+	margin: 12px;
+}
+
+a{
+	margin: 22px;
+	color: 	rgb(0, 0, 0);
+}
+footer{
+	background-color:rgb(240, 223, 225);
+	border: solid;
+	margin-left: 20px;
+	margin-top: 15px;
+	margin-right: 40px;
+	margin-bottom: 30px;
+}

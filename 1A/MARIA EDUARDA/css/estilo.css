@@ -1,0 +1,81 @@
+body{ 
+	margin: 30px 40px 30px 40px;
+	font-family:sans-serif;
+	background-color: #7764cc;
+	color:#333231; 
+	border-color: #BC8F8F;
+	border-style:solid;
+	border-width: 8px;
+	margin: 50px;
+	
+	
+}
+h1{
+	color: #333231;
+	background-color: #BC8F8F;
+	background-image:url(../img/eii.jpg);
+	padding: 15px;
+	text-align: center;
+
+
+}
+
+h2{
+    color: #fcfdff;
+	padding: 4px;
+	
+
+
+}
+
+figcaption{
+	color: #fcfdff;
+	
+
+
+}
+img{
+	margin: 10px;
+
+	margin-top: 50px;
+	margin-bottom: 15px;
+	
+}
+
+b{
+	color: #333231;
+	background-color: #BC8F8F;
+	
+	padding: 3px;
+	
+
+
+}
+p{
+	color:#857c7b;
+	background-color:#020e4a;
+	background-image:url(../img/eii.jpg);
+	font-size: 20px;
+	padding: 15px;
+}
+ul{
+    border-color: #c74d02;
+    border-style: solid;
+    border-width: 4px;
+
+} 
+
+li{
+	color : #fcfdff;
+	font-size: 15px;
+	padding: 10px;
+
+
+}
+
+
+footer{
+	background-color: rgb(#080807);
+	padding: 5px;
+	text-align: center;
+}

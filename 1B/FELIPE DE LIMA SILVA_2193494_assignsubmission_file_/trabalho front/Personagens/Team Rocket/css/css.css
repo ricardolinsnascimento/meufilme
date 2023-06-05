@@ -1,0 +1,40 @@
+body{
+	background-color: rgb(230,230,230);
+}
+h1{
+	height: 50px;
+	font-family:sans-serif;
+	background-color: rgb(180,180,255);
+	text-align: center;
+	margin: 50px 0px 40px 0px;
+}
+h2{
+	font-size: 45px;
+	margin: 50px 0px 40px 0px;
+	background-color: rgb(200,200,200);
+}
+h3{
+	font-size: 37px;
+}
+p{
+	font-size: 23px
+}
+img{
+	border-style: solid;
+	border-color: rgb(0, 0, 255);
+
+}
+li{
+	margin: 0px 0px 40px 0px;
+	font-size: 23px
+}
+footer {
+	color: rgb(255,255,255);
+	background-color: rgb(162, 105, 219);
+	height: 30px;
+	text-align: center;
+	font-size: 23px;
+}
+figure{
+	text-align: center;
+}

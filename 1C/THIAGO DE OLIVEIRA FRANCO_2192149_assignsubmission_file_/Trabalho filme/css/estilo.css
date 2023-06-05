@@ -1,0 +1,48 @@
+body{
+	background-color: #000000;
+	background-position: center ;
+	background-size: 600px 2000px;
+	background-repeat: no-repeat;
+	background-image: url(../img/fun.jpg);
+	font-family: monospace;
+}
+h1{
+	color: #000000;
+	margin-left: 820px;
+	margin-right: 850px;
+	margin-bottom: 100px;
+	background-color: #696969;
+	padding: 5px;
+	border-style: inset;
+}
+img{ 
+	margin-left: 720px;
+	margin-top: -90px;
+}
+figcaption{
+	color: #f0f4f5;
+	margin-left: 720px;
+}
+h2{
+	color: #000000;
+	background-color: #9acd32;
+	margin-left: 880px;
+	margin-right: 910px;
+	padding: 10px;
+}
+h4{
+	color: #f0f4f5;
+margin: 0px 700px 10px 700px;
+}
+h3{
+	color: #000000;
+background-color: #daa520;
+margin-left: 770px;
+margin-right: 940px;
+padding: 5px;
+}
+footer{
+	color: #000000;
+	background-color: #f0f4f5;
+	padding: 20px;
+}

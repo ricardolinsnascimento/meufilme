@@ -1,0 +1,52 @@
+		h1 {
+			text-align: center;
+			font-family: sans-serif;
+		    color : rgb(251, 252, 252);
+		    background-color: rgb(0, 0, 0);
+	}	
+	    h2 {
+	    	text-align: center;
+			font-family: sans-serif;
+		    color : rgb(251, 252, 252);
+		    background-color: rgb(0, 0, 0);
+
+	    }
+	     img{
+			
+		    display:  block;
+		    margin : auto
+
+			
+		}
+		figcaption{
+			text-align: center;
+			font-family: sans-serif;
+		}
+		body{
+		    background-image:  url(../imgperso/fundo.jpg);
+			margin:  20px;
+			font-family:  sans-serif;
+		}
+		ul{
+			border-color:  rgb(31, 97, 141);
+			border-style:  solid;
+			border-width:  2px;
+		}
+
+		footer {
+			padding : 10px; 
+			font-family: sans-serif;
+			color : rgb(247, 249, 249);
+			background-color : rgb(58, 74, 160);
+			text-align: center;
+		}
+		a {
+			text-decoration: none;
+			color: rgb(185, 119, 14);
+			background-color: rgb(23, 32, 42);
+			
+		}
+		p {
+	    font-family: sans-serif;
+	    margin : 20px;
+	}

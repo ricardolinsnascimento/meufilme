@@ -1,0 +1,58 @@
+img {
+	padding-left: 20px;
+	background-color: LightSkyBlue;
+    border-style: solid;
+}
+h1{
+	
+	padding-left: 400px;
+	color: #E8E8E8;
+	opacity: 1;
+	font-family: sans-serif, arialblack;
+}
+h2{
+	color: #FFFFFF;
+	padding-left: 400px;
+	border-style: solid;
+	border-width: 4px;
+	border-color: #8B0000;
+	border-top: 0px;
+	border-left: 0px;
+	border-right: 0px;
+	font-family: sans-serif, arialblack;
+}
+body{
+   background-image: url(../img/fundo4.jpg);
+}
+iframe{
+	 margin-left: 30px;
+	border-style: solid;
+	border-width: 5px;
+	border-color: #8B0000;
+}
+p{
+	padding-left: 10px;
+	color: #FFFFFF;
+	text-align: left;
+	font-family: sans-serif, Arial; 
+	font-size: 18px;
+	border-bottom: solid;
+	border-color: #191970;
+	font-size: 25px;
+}
+.container {
+	display: flex;
+}
+
+h3{
+	color: #FFFFFF;
+	font-family: monospace;
+	font-size: 20px;
+}
+li{
+	color: #1E90FF;
+	font-size: 20px;
+	font-family: sans-serif ;
+	font-style: italic;
+
+}

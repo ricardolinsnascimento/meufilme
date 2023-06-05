@@ -1,0 +1,35 @@
+body{
+	background-color:gray;
+	font-family: sans-serif;
+	margin: 20px 20px 20px 20px;
+
+}
+h1{
+	color:#da70d6;
+	padding: 20px;
+	
+}
+h2{
+	background-color:#8b008b;
+	color: #da70d6
+	padding: 10px;
+}
+p{
+	background-color: #8b008b;
+}
+
+
+footer p{
+	background-color:#8b008b;
+	padding: 20px
+	color:#8b008b;
+	text-align: center;
+}
+a{
+  color:#4B0082;
+
+}
+
+
+
+	

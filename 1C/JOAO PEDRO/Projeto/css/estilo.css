@@ -1,0 +1,110 @@
+body {
+    margin: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+    background-color: gainsboro;
+}
+
+h1 {
+    color: #f0f0f0;
+    background-color: #000;
+    padding: 40px;
+    font-size: 40px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.texto {
+    background-color: white;
+    margin-left: 450px;
+    margin-right: 450px;
+    padding: 40px;
+    font-size: 23px;
+}
+.temporadas {
+    margin-right: 400px;
+    font-size: 25px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.episodios {
+  margin-top: -55px;
+  margin-left: 400px;
+  font-size: 25px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+iframe.video {
+    border-radius: 40px;
+    border-style: solid;
+    border-color: #000;
+}
+.links {
+    background: #000;
+    font-size: 25px;
+    color: white;
+    margin-top: 5%;
+}
+.Netflix {
+    font-size: 21px;
+    border-style: solid;
+    border-radius: 3px;
+    border-width: 3px;
+    margin: 50px 410px 70px 410px;
+    background-color: white;
+}
+.mover-texto{
+    margin-top: 30px;
+}
+.logoNet {
+    border-radius: 50px;
+}
+.netflix-link {
+    border-radius: 20px;
+    border-style: solid;
+    border-width: 0,7vh;
+    background-color: #340086;
+    color: white;
+    padding: 20px;
+    font-size: 20px;
+}
+.elencos{
+    font-size: 25px;
+}
+.img1 {
+    border-style: solid;
+    border-radius: 30px;
+}
+.img2 {
+    border-style: solid;
+    border-radius: 30px;
+}
+.img3 {
+    border-style: solid;
+    border-radius: 30px;
+}
+.img4 {
+    border-style: solid;
+    border-radius: 30px;
+}
+p.titulo-elenco {
+    font-size: 30px;
+}
+.link-todos {
+    border-radius: 40px;
+    border-style: solid;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-top: 70px;
+    font-size: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+footer {
+    background-color: #000;
+    padding: 5%;
+    color: white;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 25px;
+    font-style: italic;
+    font-variant: small-caps;
+}
+p.margin {
+    margin-left: 500px;
+    margin-top: 50px;
+}

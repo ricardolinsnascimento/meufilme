@@ -1,0 +1,30 @@
+body{
+background: url(./img/iz.jpg) ;
+background-size:cover  ;
+background-repeat: no-repeat;
+}
+h1{
+ color: #000000;
+}
+p{
+margin left:2px ;
+margin right:2px ;
+}
+h2{
+color:#FFFFFF;
+}
+
+a{
+color:#00FFF8;
+
+}
+
+footer{
+color :#FFFFFF;
+
+}
+
+
+
+
+

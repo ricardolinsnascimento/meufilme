@@ -1,0 +1,32 @@
+body{
+	font-family: monospace;
+	background-color: white;
+	color: black;
+    margin-left: 400px;
+    margin-bottom: 200px;
+    margin-top: 30px;
+    margin-right: 40px;
+}
+h1{
+	 color: black;
+	 background-image: url(../img/claro.jfif);
+	 padding: 20px;
+	 text-align: center;
+	
+}
+ p{
+ 	color:white;
+ 	font-size: 20px;
+ }
+ figure{
+ 	margin-bottom: 100px;
+ }
+ a{
+ 	color: black;
+ }
+ footer{
+ 	margin-left: 200px;
+ 	background-color: black;
+ 	padding: 200px;
+ 	text-align: center;
+}

@@ -1,0 +1,104 @@
+body {background-color: #818bac;
+		margin-left: 200px;
+		margin-top: 20px;
+		margin-right: 200px
+	}
+	img {
+		margin-left: 200px;
+		margin-right: 200px;
+	}
+
+	h1 {
+		font-family: serif;
+		text-align: center;
+	}
+	figcaption {
+		margin-left: 150px;
+		margin-right: 200px;
+	}
+	h2 {
+		font-family: serif;
+		border-width: 2px;
+		padding-left: 50px
+		font-size: 50px;
+	}
+	h3 {
+		font-family: serif;
+		border-width: 2px;
+		padding-left: 50px
+		font-size: 50px;
+	}
+	p {
+		font-family: serif;
+		border-width: 2px;
+		padding-left: 50px
+		font-size: 50px;
+	}
+	li {
+		font-family: serif;
+		border-color: #A020F0;
+		padding-left: 10px;
+	}
+	iframe {
+		margin-left: 200px;
+		margin-right: 200px;
+	}
+	#capa{
+		margin-left: 200px;
+		margin-right: 200px;
+	}
+	#banner {
+		margin-left: 200px;
+		margin-right: 200px;
+	}
+	#autor {
+		margin-left: 300px;
+		margin-right: 200px;
+	}
+	#hirohikoImg {
+		margin-left: 300px;
+		margin-right: 200px;
+	}
+	#jonathanImg {
+		margin-left: 150px;
+		margin-right: 200px;
+	}
+	#jojo {
+		margin-left: 0px;
+	}
+	#tutorImg {
+		margin-left: 150px;
+		margin-right: 200px;
+	}
+	#speedwagonImg {
+		margin-left: 150px;
+		margin-right: 200px;
+	}
+	#personagensTitulo {
+		padding-left: 0px;
+	}
+	#erinaImg {
+		margin-left: 150px;
+		margin-right: 200px;
+	}
+	#straizoImg {
+		margin-left: 150px;
+		margin-right: 200px;
+	}
+	#dannyImg {
+		margin-left: 150px;
+		margin-right: 200px;
+	}
+	#dioImg {
+		margin-left: 150px;
+		margin-right: 200px;
+	}
+
+
+
+	footer {
+		padding: 10px;
+		color: #ffffff;
+		background-color: purple;
+		text-align: center;
+	}

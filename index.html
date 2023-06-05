@@ -1,0 +1,225 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+	<head>		
+		<meta charset="utf-8"/>
+		<title>Projeto Meu Filme</title>				
+		<link rel="stylesheet" type="text/css" href="css/estilo.css">
+
+		<!-- CSS only -->
+		<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-0evHe/X+R7YkIZDRvuzKMRqM+OrBnVFBL6DOitfPri4tjfHxaWutUpFmBp4vmVor" crossorigin="anonymous">
+
+		<!-- JavaScript Bundle with Popper -->
+		<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/js/bootstrap.bundle.min.js" integrity="sha384-pprn3073KE6tl6bjs2QrFaJGz5/SUsLqktiwsUTF55Jfv3qYSDhgCecCxMW52nD2" crossorigin="anonymous"></script>
+
+		<link rel="shortcut icon" href="img/icone.png" />
+
+		<script>
+		
+
+			 function mostra(turma){
+			 	switch(turma){
+			 		case '1a':
+				 		document.getElementById("T1A").style.display = "block";
+				 		document.getElementById("T1B").style.display = "none";
+				 		document.getElementById("T1C").style.display = "none";
+				 		
+			 			break;
+			 		case '1b':
+			 			document.getElementById("T1A").style.display = "none";
+				 		document.getElementById("T1B").style.display = "block";
+				 		document.getElementById("T1C").style.display = "none";
+				 		
+			 		break;
+			 		case '1c':
+			 			document.getElementById("T1A").style.display = "none";
+				 		document.getElementById("T1B").style.display = "none";
+				 		document.getElementById("T1C").style.display = "block";
+				 		
+			 		break;
+			 		
+			 	}
+			 }
+
+		</script>
+	</head>
+	<body>
+
+		<div class="container topo">		
+			<div >
+				<div class="row titulo  texto-link ">
+					<div class="col-12">
+						<h1 class="letreiro"> <strong> Projeto Meu Filme </strong> </h1>
+						<p class = "subtitulo"> Trabalho da disciplina Desenvolvimento Front-End 1 - Professor Ricardo Nascimento - IFMS Dourados - 2023/1 </p>
+						
+					</div>			
+				</div>
+			</div>
+
+			<div class="row">
+				
+					<div class="col-10">
+						<div class="botoes">
+							<button onclick="mostra('1a')" type = "button" class="btn btn-warning botao">1A</button>
+							<button onclick="mostra('1b')" type = "button" class="btn btn-warning botao">1B</button>
+							<button onclick="mostra('1c')" type = "button" class="btn btn-warning botao">1C</button>						
+						</div>
+					</div>
+					<div class="col-2">
+						<img src="img/logo_transparent.png" height="60px" alt="Logotipo do IFMS">
+					</div>
+				
+			</div>
+
+			<div class="row listas">
+				<div id="T1A" style="display='none'">
+					<div class="col-11">
+						<div  class="card  border-primary lista">
+							<div class="card-header">1A</div>
+							<div class="card-body">								
+								<ul>
+									<li> <a class="texto-link" href="1A/ALANYS%20CAVALCANTI%20DE%20SOUZA_2195283_assignsubmission_file_/Trabalho%20Front-End/Projeto%20Meu%20Filme/Index.html" target="_blank"> <strong> Alanys e Estevão</strong> - The Promised Neverland </a> </li>
+									<li> <a class="texto-link" href="1A/ANA%20CLARA%20VIEIRA%20SALVADO_2195305_assignsubmission_file_/trabalho%20front%20end/rickyandmorty/index.html" target="_blank"> <strong> Ana Clara e Livia </strong> -  RICK AND MORTY</a> </li>
+									<li> <a class="texto-link" href="1A/ANA%20JÚLIA%20BENTO%20GARCIA_2195302_assignsubmission_file_/filme/index.html" target="_blank"> <strong> Ana Julia </strong> - PERCY JACKSON E OS OLIMPIANOS									</a> </li>
+									<li> <a class="texto-link" href="1A/ANDRESSA%20RIBAS/Filme/index.html" target="_blank"> <strong> Andressa </strong> - UP ALTAS AVENTURAS									</a> </li>
+									<li> <a class="texto-link" href="1A/ANAÍSA%20MONTERA%20MARTINS_2195311_assignsubmission_file_/filme/index.html" target="_blank"> <strong> Anaísa </strong> - O SOL DA MEIA NOITE </a> </li>
+									<li> <a class="texto-link" href="1A/ANILTON%20DE%20SALES%20RODRIGUES%20FILHO_2195317_assignsubmission_file_/divulgação%20da%20série/index.html" target="_blank"> <strong> Anilton</strong> -  BREAKING BAD </a> </li>
+									<li> <a class="texto-link" href="1A/ANNA%20BEATRIZ%20MELO_2195294_assignsubmission_file_/index.html" target="_blank"> <strong> Anna Beatriz </strong> - THE CROWN  </a> </li>
+									<li> <a class="texto-link" href="1A/ARTHUR%20PEIXOTO%20PAES%20DE%20BARROS_2195290_assignsubmission_file_/TFilme/index.html" target="_blank"> <strong> Arthur Peixoto </strong> - A VIAGEM DE CHIHIRO </a> </li>
+									<li> <a class="texto-link" href="1A/BENTO%20AGOSTINI%20MARTINS_2195309_assignsubmission_file_/MyLittlePonyEquestriaGirls/index.html" target="_blank"> <strong> Bento </strong> - MY LITTLE PONY EQUESTRIA </a> </li>
+									<li> <a class="texto-link" href="1A/EDUARDO%20PEREIRA%20BEZERRA_2195288_assignsubmission_file_/StrangerThings/index.html" target="_blank"> <strong> Eduardo </strong> - STRANGER THINGS									</a> </li>
+									<li> <a class="texto-link" href="1A/ELISA%20FLECK%20DE%20ASSUNCAO_2195293_assignsubmission_file_/filme/index.html" target="_blank"> <strong> Elisa </strong> - INTERSTELAR </a> </li>
+									<li> <a class="texto-link" href="1A/FABIANE%20ARGUELHO%20ARAUJO_2195287_assignsubmission_file_/index.html" target="_blank"> <strong> Fabiane </strong> - ROMANTIC KILLER  </a> </li>
+									<li> <a class="texto-link" href="1A/GUILHERME%20PAES%20JORDAO_2195296_assignsubmission_file_/trabalhofilme/src/index.html" target="_blank"> <strong> Guilherme Jordão </strong> - GUARDIÕES DA GALÁXIA VOL. 3 </a> </li>
+									<li> <a class="texto-link" href="1A/JULIANA%20DA%20SILVA%20DOS%20SANTOS%20BERNARDINO_2195282_assignsubmission_file_/trabalho%20do%20filme/index.html" target="_blank"> <strong> Juliana </strong> -  ALICE ATRÁVES DO ESPELHO </a> </li>
+									<li> <a class="texto-link" href="1A/KEVELLYN%20KARINY%20DE%20OLIVEIRA%20BORGES_2195286_assignsubmission_file_/trabalho02/index.html" target="_blank"> <strong> Kevellyn </strong> - VIÚVA NEGRA  </a> </li>
+									<li> <a class="texto-link" href="1A/LAISA%20MARIA%20MARTINI%20DA%20SILVEIRA_2195307_assignsubmission_file_/index.html" target="_blank"> <strong> Laisa </strong> - O VERÃO QUE MUDOU MINHA VIDA </a> </li>
+									<li> <a class="texto-link" href="1A/LAURA%20VISCARDI%20DA%20SILVA_2195289_assignsubmission_file_/super%20choque/index.html" target="_blank"> <strong> Laura </strong> -  SUPER CHOQUE </a> </li>
+									<li> <a class="texto-link" href="1A/LORENA%20COLA%20MISSIO_2195308_assignsubmission_file_/brigerton%20trabalho/index.html" target="_blank"> <strong> Lorena </strong> - RAINHA CHARLOTTE: UMA HISTÓRIA BRIDGERTON </a> </li>
+									<li> <a class="texto-link" href="1A/LUCAS%20GOMES%20DOS%20SANTOS_2195285_assignsubmission_file_/Filme/index.html" target="_blank"> <strong> Lucas dos Santos </strong> - RESGATE </a> </li>
+									<li> <a class="texto-link" href="1A/LUCAS%20SILVA%20SILVEIRA_2195278_assignsubmission_file_/Filme/index.html" target="_blank"> <strong> Lucas Silveira </strong> - JOHN WICK: DE VOLTA AO JOGO  </a> </li>
+									<li> <a class="texto-link" href="1A/LUCAS%20TELES%20BARBERATO_2195292_assignsubmission_file_/filme/filme/index.html" target="_blank"> <strong> Lucas Teles </strong> - STEVEN UNIVERSO: O FILME </a> </li>
+									<li> <a class="texto-link" href="1A/LUCAS%20VINÍCIUS%20LIMA%20ASSUNÇÃO%20SILVA_2195306_assignsubmission_file_/Trabalho%20do%20filme/index.html" target="_blank"> <strong> Lucas Vinicius </strong> - THE BATMAN </a> </li>
+									<li> <a class="texto-link" href="1A/MARCELO%20AUGUSTO%20ARTUZI%20MARQUES_2195299_assignsubmission_file_/trabalho%20de%20filme/index.html" target="_blank"> <strong> Marcelo Artuzi </strong> - VELOZES E FURIOSOS 1  </a> </li>
+									<li> <a class="texto-link" href="1A/MARIA%20CLARA%20NEVES%20JARDIM_2195316_assignsubmission_file_/minha%20série/index.html" target="_blank"> <strong> Maria Clara </strong> - OUTER BANKS </a> </li>
+									<li> <a class="texto-link" href="1A/MARIA%20EDUARDA/index.html" target="_blank"> <strong> Maria Eduarda </strong> - ANNE WITH AN 'E' </a> </li>
+									<li> <a class="texto-link" href="1A/MARIANA%20CORREA%20VIANA_2195301_assignsubmission_file_/The%20office/index.html" target="_blank"> <strong> Mariana </strong> - THE OFFICE </a> </li>
+									<li> <a class="texto-link" href="1A/MATHEUS%20DAKAN%20BATISTA%20BENTO_2195304_assignsubmission_file_/Trabalho,%20site%20Halo.%20Matheus%20Dakan%20e%20Daniel/source/index.html" target="_blank"> <strong> Matheus e Daniel </strong> - Halo a Série </a> </li>
+									<li> <a class="texto-link" href="1A/MAYCON%20DE%20FREITAS%20DOS%20SANTOS_2195295_assignsubmission_file_/filme/As%20branquelas/site%20do%20filme/filme.html" target="_blank"> <strong> Maycon e Thiago </strong> - AS BRANQUELAS </a> </li>
+									<li> <a class="texto-link" href="1A/NICOLAS%20BRIZOLA%20BONACINA_2195281_assignsubmission_file_/Meu%20filme/index.html" target="_blank"> <strong> Nicolas e João Pedro</strong> - JUJUTSU KAISEN </a> </li>
+									<li> <a class="texto-link" href="1A/OTTO%20RENÊ%20ZANCHETT%20CASELLA_2195313_assignsubmission_file_/Filme%20-%20Front%20End/index.html" target="_blank"> <strong> Otto e Giovanna</strong> - HARRY POTTER E O PRISIONEIRO DE AZKABAN</a> </li>
+									<li> <a class="texto-link" href="1A/SHAMARA%20RAPHAÉLLA%20VIANA%20DOS%20SANTOS_2195298_assignsubmission_file_/Bela%20e%20a%20fera/index.html" target="_blank"> <strong> Shamara </strong> - A BELA E A FERA </a> </li>
+									<li> <a class="texto-link" href="1A/YURI%20DE%20ALMEIDA%20CABANHA_2195300_assignsubmission_file_/Senhor%20dos%20Anéis/index.html" target="_blank"> <strong> Yuri e Carla </strong> -  O SENHOR DOS ANÉIS: A SOCIEDADE DO ANEL</a> </li>									
+								</ul>
+							</div>
+						</div>
+					</div>
+				</div>
+
+
+				<div id="T1B" >
+					<div class="col-11">
+						<div  class="card  border-primary lista">
+							<div class="card-header">1B</div>
+							<div class="card-body"> 
+								<ul>
+
+									<li> <a class="texto-link" href="1B/CAROLINA%20FIGUEIREDO%20SALTARELLI_2193506_assignsubmission_file_/confissões%20de%20uma%20garota%20excluída/index.html" target="_blank"> <strong> Carolina </strong> - CONFISSÕES DE UMA GAROTA EXCLUÍDA</a> </li>									
+									<li> <a class="texto-link" href="1B/CLEBERSON%20PEREIRA_2193534_assignsubmission_file_/avatar.web/index.html" target="_blank"> <strong> Cleberson </strong> - AVATAR: A LENDA DE AANG	</a> </li>									
+									<li> <a class="texto-link" href="1B/DANILO%20MARTINEZ%20FERREIRA_2193501_assignsubmission_file_/The%20Flash/index.html" target="_blank"> <strong> Danilo</strong> - THE FLASH								</a> </li>									
+									<li> <a class="texto-link" href="1B/DAVI%20VIEIRA%20SOBREIRA%20RAMOS_2193536_assignsubmission_file_/trabalho%20filme/index.html" target="_blank"> <strong> Davi Ramos </strong> - METAL LORDS</a> </li>									
+									<li> <a class="texto-link" href="1B/ELOHIM%20SEIJI%20SUZUKI%20CARNEIRO_2193517_assignsubmission_file_/crepusculo/index.html" target="_blank"> <strong> Elohin e Laura Lima </strong> - CREPÚSCULO									</a> </li>									
+									<li> <a class="texto-link" href="1B/EMANUEL%20STOEF%20NADALETTE_2193508_assignsubmission_file_/O%20show%20de%20truman/index.html" target="_blank"> <strong> Emanuel e Matheus </strong> - O SHOW DE TRUMAN									</a> </li>									
+									<li> <a class="texto-link" href="1B/EMERSON%20JOEL%20PEREIRA_2193526_assignsubmission_file_/filme/index.html" target="_blank"> <strong> Emerson e Gladson </strong> - JOJO'S BIZARRE ADVENTURE</a> </li>									
+									<li> <a class="texto-link" href="1B/EMILLY%20PALHANO%20GARCIA_2193514_assignsubmission_file_/Trabalho%202%20front%20end1/index.html" target="_blank"> <strong> Emilly </strong> - MIRACULOUS AS AVENTURAS DE LADYBUG</a> </li>									
+									<li> <a class="texto-link" href="1B/FELIPE%20DE%20LIMA%20SILVA_2193494_assignsubmission_file_/trabalho%20front/index.html" target="_blank"> <strong> Felipe Silva e Diego </strong> - POKÉMON</a> </li>									
+
+									<li> <a class="texto-link" href="1B/FELIPE%20MENDES%20ZAGO_2193516_assignsubmission_file_/trabalho%20serie%20ou%20filme/index.html" target="_blank"> <strong> Felipe Zago </strong> - LOVE, DEATH & ROBOTS</a> </li>			
+									<li> <a class="texto-link" href="1B/FELIPE%20NASCIMENTO%20MELO_2193520_assignsubmission_file_/One%20Piece/index.html" target="_blank"> <strong> Felipe Melo </strong> - ONE PIECE</a> </li>									
+									<li> <a class="texto-link" href="1B/GABRIEL%20PAULON%20DOMINGUES_2193524_assignsubmission_file_/trabalho%20filme/index.html" target="_blank"> <strong> Gabriel Domingues e Joaquim </strong> - ENROLADOS </a> </li>									
+									<li> <a class="texto-link" href="1B/GEOVANA%20CHIARE%20RINALDI_2193507_assignsubmission_file_/Meu%20filme,%20trabalho/index.html" target="_blank"> <strong> Geovana Rinaldi </strong> - GAROTA SOMBRIA</a> </li>									
+									<li> <a class="texto-link" href="1B/GEOVANES%20VILHALVA%20DANTAS_2193529_assignsubmission_file_/Kung%20Fu%20Panda/index.html" target="_blank"> <strong> Geovanes </strong> - KUNG FU PANDA</a> </li>									
+									<li> <a class="texto-link" href="1B/GIOVANA%20ALMEIDA%20SANTANA_2193511_assignsubmission_file_/trabalho%20front%20end/index.html" target="_blank"> <strong> Giovana Santana e Júlia </strong> - MENINAS MALVADAS									</a> </li>									
+									<li> <a class="texto-link" href="1B/ISABELLY%20DE%20SOUZA_2193497_assignsubmission_file_/trabalho%20de%20front%20end/index.html" target="_blank"> <strong> Isabelly </strong> -  BARBIE MODA E MAGIA									</a> </li>									
+									<li> <a class="texto-link" href="1B/JOAO%20PEDRO%20AMARO%20DE%20OLIVEIRA_2193537_assignsubmission_file_/Trabalho%20do%20filme/index.html" target="_blank"> <strong> João Pedro de Oliveira e Davi Murakami</strong> - PACIFIC RIM									</a> </li>									
+									<li> <a class="texto-link" href="1B/JOÃO%20VITOR%20DE%20LIMA%20ABRANTI_2193505_assignsubmission_file_/Trabalho%20arcane/Main/Index.html" target="_blank"> <strong> João Vitor </strong> - ARCANE									</a> </li>									
+									<li> <a class="texto-link" href="1B/JUAN%20MIGUEL%20SILVA%20GARCETE%20DE%20CASTRO_2193532_assignsubmission_file_/One%20Piece/index.html" target="_blank"> <strong> Juan </strong> - ONE PIECE									</a> </li>									
+									<li> <a class="texto-link" href="1B/KAIO%20HENRIQUE%20LIMA%20ECKER_2193522_assignsubmission_file_/SCOOBY/index.html" target="_blank"> <strong> Kaio </strong> - SCOOBY-DOO									</a> </li>									
+									<li> <a class="texto-link" href="1B/KARLA%20VITORIA%20AMORIN_2193521_assignsubmission_file_/trabalho/index.html" target="_blank"> <strong> Karla </strong> - HARRY POTTER E A PEDRA FILOSOFAL 									</a> </li>									
+									<li> <a class="texto-link" href="1B/LEONARDO%20DA%20SILVA%20BORGES_2193502_assignsubmission_file_/TRABALHO/index.html" target="_blank"> <strong> Leonardo e Isaac </strong> - VINGADORES: ULTIMATO									</a> </li>									
+									<li> <a class="texto-link" href="1B/MARIANI%20SAMPAIO%20CORREIA_2193513_assignsubmission_file_/PROJETO%20MEU%20FILME/index.html" target="_blank"> <strong> Mariani </strong> - FATE:A SAGA WINX									</a> </li>									
+									<li> <a class="texto-link" href="1B/NATALIA%20DO%20NASCIMENTO%20DIAS_2193500_assignsubmission_file_/Projeto%20meu%20Filme/index.html" target="_blank"> <strong> Natalia </strong> - VALENTE </a> </li>									
+									<li> <a class="texto-link" href="1B/PAULO%20RICARDO%20RODRIGUES%20DUARTE_2193515_assignsubmission_file_/trabai%20do%20UP/index.html" target="_blank"> <strong> Paulo Ricardo e João Pedro Oliveira </strong> - UP ALTAS AVENTURAS</a> </li>									
+									<li> <a class="texto-link" href="1B/PEDRO%20CRESPE%20LUTTI_2193519_assignsubmission_file_/meu%20filme%20-%20evangelion(pedro%20crespe)/index.html" target="_blank"> <strong> Pedro </strong> - NEON GENESIS EVANGELION	</a> </li>
+									<li> <a class="texto-link" href="1B/RODRIGO%20VIEIRA%20SALVADO_2193523_assignsubmission_file_/Trabalho%20FrontEnd/pagina2.html" target="_blank"> <strong> Rodrigo e Gabriel Pereira</strong> - BREAKING BAD									</a> </li>									
+									<li> <a class="texto-link" href="1B/THAUANE%20STEPHANE%20FERNANDES%20DA%20SILVA_2193518_assignsubmission_file_/trabalho%20de%20front%20end/index.html" target="_blank"> <strong> Thauane e Maria Júlia </strong>  - HARRY POTTER-A CÂMARA SECRETA									</a> </li>									
+									<li> <a class="texto-link" href="1B/THIAGO%20PEREIRA%20ARCHILLA_2193496_assignsubmission_file_/Meu%20filme/index.html" target="_blank"> <strong> Thiago e João Pedro Gomes </strong> - VELOZES E FURIOSOS: DESAFIO EM TÓQUIO									</a> </li>									
+									<li> <a class="texto-link" href="1B/VILLYAN%20FREITAS%20MACIEL_2193509_assignsubmission_file_/Trabalho%20Meu%20Filme/index.html" target="_blank"> <strong> Villyan</strong> - A GRANDE FAMÍLIA</a> </li>									
+									
+								</ul>
+							</div>
+
+						</div>
+					</div>
+				</div>
+
+				<div id="T1C" >
+					<div class="col-11">
+						<div  class="card  border-primary lista">
+							<div class="card-header">1C</div>
+							<div class="card-body">
+							
+								<ul>
+									<li> <a class="texto-link" href="1C/ADRIELLY%20SIQUEIRA%20GOMES_2192113_assignsubmission_file_/meu%20filme/index.html" target="_blank"> <STRONG>Adrielly e Nicolly</STRONG> - DIVERTIDA MENTE  </a> </li>									
+									<li> <a class="texto-link" href="1C/ALICE%20PEREIRA%20DOS%20SANTOS%20LIMA_2192144_assignsubmission_file_/trabalho%20supernatural/index.html" target="_blank"> <strong>Alice e Clara </strong>- SUPERNATURAL  </a> </li>																		
+									<li> <a class="texto-link" href="1C/ANA%20FLÁVIA%20GOMES%20PIVETA_2192108_assignsubmission_file_/filme.html/index..html" target="_blank">  <strong>Ana Flávia - JOGOS VORAZES - EM CHAMAS</strong></a> </li>									
+									<li> <a class="texto-link" href="1C/ANDR%C3%89%20LUIZ%20DUARTE%20HAAS_2192120_assignsubmission_file_/Projeto%20Meu%20filme/index.html" target="_blank"> <strong> Luis e Luiz Augusto </strong> -  TRUQUE DE MESTRE </a> </li>									
+									<li> <a class="texto-link" href="1C/ANTONIO%20MENDES%20NETO_2192107_assignsubmission_file_/front/index.html" target="_blank"> <strong>Antônio</strong> - TOP GUN: MAVERICK  </a> </li>									
+									<li> <a class="texto-link" href="1C/BEATRIZ%20ECHEVERRIA%20DA%20SILVA_2192131_assignsubmission_file_/FIlme/Index.html" target="_blank"> <strong>Beatriz e Jamili</strong> - A BELA E A FERA  </a> </li>									
+									<li> <a class="texto-link" href="1C/BRENNER%20ANDERSON%20SILVA_2192110_assignsubmission_file_/Smurfs/index.html" target="_blank"> <strong>Brenner e Bruno</strong> - THE SMURFS</a> </li>									
+									<li> <a class="texto-link" href="1C/EDUARDO%20GOMES%20DE%20SOUZA_2192137_assignsubmission_file_/Filme/index.html" target="_blank"> <strong>Eduardo de Souza e Otávio Beretta</strong>  - ESPETACULAR HOMEM ARANHA   </a> </li>									
+									<li> <a class="texto-link" href="1C/FELIPE%20LEITE%20HELFENSTEIN_2192130_assignsubmission_file_/divulg%20One%20piece/index.html" target="_blank"> <strong>Felipe</strong> - ONE PIECE  </a> </li>									
+									<li> <a class="texto-link" href="1C/FLAVIA%20BALBINO%20CARRILHO_2192128_assignsubmission_file_/projeto%20filme/index.html" target="_blank"> <strong>Fernanda e Flávia</strong> - INTERSTELLAR   </a> </li>									
+									<li> <a class="texto-link" href="1C/GABRIEL%20REIS%20BRONZATI%20ORTEGA_2192126_assignsubmission_file_/Trabalho%20filme%20ofc/index.html" target="_blank"> <strong>Gabriel e Elis</strong> - VINGADORES : GUERRA INFINITA   </a> </li>									
+									<li> <a class="texto-link" href="1C/GUILHERME%20DA%20SILVA%20GRACIOTO_2192129_assignsubmission_file_/PJMF/index.html" target="_blank"> <strong>Guilherme Gracioto e Rafael</strong> - AS BRANQUELAS  </a> </li>									
+									<li> <a class="texto-link" href="1C/GUILHERME%20SIQUEIRA%20XIMENDES_2192135_assignsubmission_file_/Projeto%20meu%20filme/trabalho/index.html" target="_blank"> <strong>Guilherme Siqueira e Caio</strong> - AVENTURA COM OS KRATTS  </a> </li>									
+									<li> <a class="texto-link" href="1C/HIGOR%20CARVALHO%20GUERRA%20DA%20SILVA_2192132_assignsubmission_file_/Thor%20Amor%20e%20Trovão/index.html" target="_blank">  <strong>Higor</strong> - THOR: AMOR E TROVÃO  </a> </li>									
+									<li> <a class="texto-link" href="1C/IGOR%20RODRIGUES%20MELO_2192142_assignsubmission_file_/InterEstelar/index.html" target="_blank"> <strong>Igor Rodrigues</strong> - INTERESTELAR  </a> </li>									
+									<li> <a class="texto-link" href="1C/JOAO%20PEDRO/Projeto/index.html" target="_blank"> <strong>João Pedro</strong> - BREAKING BAD </a> </li>									
+									<li> <a class="texto-link" href="1C/JOAO%20VICTOR%20PINHEIRO%20GUERRA_2192125_assignsubmission_file_/trabalho-filme/index.html" target="_blank"> <strong>João Victor</strong> - WANDINHA  </a> </li>									
+									<li> <a class="texto-link" href="1C/JOSÉ%20HENRIQUE%20DUARTE%20ALBINO_2192114_assignsubmission_file_/neymar/index.html" target="_blank"> <strong>José e Mateus</strong>  - NEYMAR - O CAOS PERFEITO </a> </li>									
+									<li> <a class="texto-link" href="1C/KAUÊ%20MORATO%20GARCIA_2192143_assignsubmission_file_/filme-trabalho/index.html" target="_blank"> <strong>Kauê</strong> - HARRY POTTER E A PEDRA FILOSOFAL
+									</a> </li>									
+									<li> <a class="texto-link" href="1C/MARIA%20CLARA%20BRUFATTO%20PRESCILIANO_2192117_assignsubmission_file_/Projeto%20meu%20filme%20(2)/Projeto%20meu%20filme/index.html" target="_blank"> <strong>Maria Clara e Iasmym</strong> - A MÚMIA (1999)  </a> </li>									
+									<li> <a class="texto-link" href="1C/MARIA%20EDUARDA%20SANTOS%20ALBA_2192141_assignsubmission_file_/meu_Filmem/index.html" target="_blank"> <strong> Maria Eduarda </strong> - DYNASTY </a> </li>									
+									<li> <a class="texto-link" href="1C/MURILO%20SANTANA%20MICHELS_2192150_assignsubmission_file_/Shrek/index.html" target="_blank"> <strong>Murilo e Otávio Carvalho</strong> - SHREK  </a> </li>									
+									<li> <a class="texto-link" href="1C/PAULO%20RICARDO%20SOUZA%20MOURA_2192112_assignsubmission_file_/Filme/index.html" target="_blank"> <strong>Paulo Ricardo e Willian</strong> - VELOZES E FURIOSOS 10  </a> </li>									
+									<li> <a class="texto-link" href="1C/THALYSSON%20MATHEUS%20PERIN%20LANDGRAF_2192139_assignsubmission_file_/trabalho/Meu%20filme/index.html" target="_blank"><strong>Thalysson e Gustavo Henrique</strong> - ONE PIECE   </a> </li>									
+									<li> <a class="texto-link" href="1C/THIAGO%20DE%20OLIVEIRA%20FRANCO_2192149_assignsubmission_file_/Trabalho%20filme/index.html" target="_blank"> <strong> Thiago </strong> - Rick and Morty </a> </li>									
+								</ul>
+							</div>
+
+						</div>
+					</div>
+				</div>			
+
+			</div>
+			<div class="container ">
+				<div class="row">
+					<div class="col">
+						<footer class="rodape">
+							<p> Todos os trabalhos tiveram o conteúdo extraído da internet para fins educacionais. </p>
+						</footer>				
+					</div>
+				</div>
+				
+			</div>
+		</div>
+
+				
+	</body>
+
+	
+
+	
+	
+</html>

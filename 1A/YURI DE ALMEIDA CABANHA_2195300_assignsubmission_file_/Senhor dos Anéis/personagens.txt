@@ -1,0 +1,87 @@
+PERSONAGENS:
+FRODO:
+sobre:Frodo Bolseiro ou Frodo Underhill é o personagem principal da obra O senhor dos anéis de J.R.R Tolkien. É também mencionado em O Silmarillion- No anexo "Dos Anéis do Poder e Da Terceira Era".
+
+raça:Hobbit
+
+idade:Frodo tem 33 anos de idade no aniversário de Bilbo e sai do condado para sua jornada com 50 anos 
+
+SAM GAMGI:
+sobre: samwise gamgee também conhecido como Sam, filho de Hamfast"ham" Gamgi, 
+
+raça:Hobbit
+
+idade:51
+
+MERRY E PIPPIN
+Sobre Pippin: É um Hobbit, amigo de Frodo Bolseiro, que o acompanha quando ele deve deixar o Condado para se juntar a Valfenda e colocar o Um Anel em segurança. Quando o Conselho de Elrond finalmente decide a destruição do Anel no incêndio do Monte da Perdição, Pippin insiste que ele tem permissão para fazer parte da Sociedade do Anel, assim como seu primo Meriadoc Brandebuque, disse Merry. Com a Sociedade, ele tenta cruzar os Caradhras, cruza Moria, visita Lothlórien onde Galadriel, então é capturado pelo Uruk-hai com seu primo Merry enquanto Boromir morre enquanto tentava protegê-los. Merry e Pippin conseguem escapar e se refugiar na floresta de Fangorn, onde encontram Ent Barbárvore, com quem vão à guerra contra Isengard. Gandalf leva Pippin para Minas Tirith, onde ele se torna o guarda de elite da Cidadela. Pippin então participa da Batalha do Portão Negro, onde mata um Troll. De volta ao Condado após a guerra, ele é um dos líderes da Batalha de Beirágua, que expulsa Zarquino (Saruman). Tendo se tornado Thain do Condado, ele retornou a Rohan e então a Gondor no final de sua vida, e foi enterrado na Casa dos Reis.
+
+Sobre Merry: É um Hobbit, amigo de Frodo Bolseiro, que o acompanha quando ele deve deixar o Condado para se juntar a Valfenda e colocar o Um Anel em segurança. Quando o Conselho de Elrond finalmente decide a destruição do Anel no incêndio do Monte da Perdição, Pippin insiste que ele tem permissão para fazer parte da Sociedade do Anel, assim como seu primo Meriadoc Brandebuque, disse Merry. Com a Sociedade, ele tenta cruzar os Caradhras, cruza Moria, visita Lothlórien onde Galadriel, então é capturado pelo Uruk-hai com seu primo Merry enquanto Boromir morre enquanto tentava protegê-los. Merry e Pippin conseguem escapar e se refugiar na floresta de Fangorn, onde encontram Ent Barbárvore, com quem vão à guerra contra Isengard. Gandalf leva Pippin para Minas Tirith, onde ele se torna o guarda de elite da Cidadela. Pippin então participa da Batalha do Portão Negro, onde mata um Troll. De volta ao Condado após a guerra, ele é um dos líderes da Batalha de Beirágua, que expulsa Zarquino (Saruman). Tendo se tornado Thain do Condado, ele retornou a Rohan e então a Gondor no final de sua vida, e foi enterrado na Casa dos Reis.
+
+raça:Hobbit
+
+idade de Pippin: tinha 11 anos no começo da sociedade
+idade de Merry: Tinha19 anos no começo da sociedade 
+
+GANDALF O CINZENTO:
+sobre:Mithrandir, mais conhecido como Gandalf, é um Istari, ele e mais dois Istari foram enviados para Terra-Média para serem guardiões do mundo, um deles sucumbiu ao poder de Sauron, o que não vem ao caso agora, ele é um mago que segue a ordem mística de Saruman, O Branco, ele faz parte do Conselho Branco, na qual Galadriel e Enrold votaram a favor de Gandalf no comando, porém quem lidera é Saruman, ele embarcou em diversas aventuras, mas a pior delas foi quando ele acompanhou Frodo, um pequeno hobbit em uma aventura para destruir o anel de Sauron, na qual ele quase é morto por um antigo demônio, mas nesse confronto que ele se torna: Gandalf, O Branco.
+
+raça:Maiar
+
+idade: A idade física de Gandalf mais proxima é de 24000 anos, de acordo com o próprio Gandalf. ainda assim, várias datas de evento importantes em outros textos de Tolkien mostram que Gandalf na verdade só caminhou em sua forma física por pouco mais de dois mil anos.
+
+LEGOLAS O ELFO
+sobre:Legolas, também conhecido como Legolas Verdefolha, foi um elfo Sindarin que fez parte da Sociedade do Anel na Terceira Era. Era o filho do Rei Élfico Thranduil de Trevamata, portanto Príncipe, mas também mensageiro e mestre-arqueiro. Com sua Visão aguçada, audição sensível, e mira excelente, Legolas era recurso valioso para os outros oito membros da Sociedade do Anel em sua jornada pela Terra-Média. Legolas se tornou grande amigo do anão Gimli, apesar da grande inimizade entre aa duas raças.
+
+raça:Elfo
+
+idade: Sendo praticamente impossível saber a idade certa de um elfo ja que sempre têm aparência jovem. Sabemos que nos filmes, ele nasceu no ano 87 da terceira Era, então ele tem quase 300 anos no começo da aventura de Frodo
+
+ANÃO GIMLI
+sobre: Gimli, filho de Glóin, era um anão guerreiro respeitado na Terra-Média. Ele era um membro da Sociedade do Anel, e foi o único dos anões que lutou com os elfos na guerra contra Sauron no final da Terceira Era.
+
+raça:Anão
+
+idade:77 anos
+
+Aragorn
+sobre:Aragorn II, filho de Arathor II e Gilraen, Também conhecido como Elessar e Passolargo, foi Chefe dos Dúnedain do Norte, e posteriormante Rei Elessar Telcontar. Um notório guerreiro e guardião, Também foi o primeiro Rei de Arnor e Gandor desde o curto reinado de Isildur. Argorn exerceu importante papel de liderança ma Guerra do anel
+
+raça:Homem
+
+idade:45 anos e durante a Guerra do Anel ele tinha 87 anos
+
+Boromir
+sobre:Boromir é o filho mais velho de Denethor II, Regente de Gondor. Boromir faz parte da sociedade do anel
+
+raça:Homem
+
+idade:23 anos
+
+VILÃO SAURON
+sobre: Sauron, também conhecido como Senhor do Escuro de Mordor ou Senhor Sombrio, por vezes referido como Inimigo do Mundo, é um Maia que se tornou o tenente mais poderoso de Morgoth, o primeiro Senhor Sombrio. Mais tarde seria o criador do Um Anel. Foi o maior inimigo dos Povos Livres da Terra-média e o principal antagonista de O Senhor dos Anéis
+
+raça:Maiar
+
+Historia: Primeira Era
+Durante a Primeira Era da Terra-média, ele era conhecido como Mairon, o Admirável, e trabalhava na forja do Vala Aulë. Eventualmente, ele se afeiçoou ao plano de Morgoth para ordenar o mundo e dominar as outras raças, tornando-se seu tenente e auxiliando na guerra que o primeiro Senhor Sombrio travava contra os Elfos e os Homens em Beleriand. Assim, passaram a chamá-lo de Sauron, o Abominável. Ele provou ser um servo devotado e capaz: "Enquanto Morgoth estava no poder, Sauron não procurou ser superior, mas trabalhou e desejou o triunfo de Melkor, que no começo, ele adorava". Depois da queda do seu mestre na Guerra da Ira, ele se escondeu para escapar do julgamento dos Valar.
+
+Segunda Era
+"Muito lentamente, começando com motivos razoáveis, a reorganização e a reabilitação da ruína da Terra-média, 'negligenciada pelos deuses', ele torna-se uma reencarnação do Mal e um ser que anseia pelo Poder Completo"[1]. Na Segunda Era, após ficar oculto por 500 anos, Sauron voltou a agir. No ano 1000 SE, ele se tornou poderoso o suficiente para se estabelecer em Mordor, na parte sudeste da Terra-Média, onde deu início à construção de Barad-dûr, a Torre Sombria, perto de Orodruin, a Montanha da Perdição. Também reuniu Orques, Trols e outras criaturas das trevas para formar seu exército.
+
+Entre 1200 e 1500, ambicionando enganar Elfos e Homens, Sauron tomou uma forma física bela e agradável, sob o nome de Annatar, o Senhor dos Presentes. Ele tentou entrar no reino élfico de Lindon ao se dizer um enviado dos Valar, oferecendo seus ensinamentos grandiosos. Mas o Alto-Rei Gil-galad proibiu sua entrada, bem como Elrond e Galadriel desconfiaram de suas palavras. Então Annatar partiu para Eregion, onde o ferreiro Celebrimbor, neto de Fëanor, o recebeu de bom grado. E lá, Sauron enganou os artifícies-élficos para que forjassem os Anéis de Poder, cuja característica principal era prevenir e retardar a decadência das coisas que fossem amadas e desejadas pelos seus portadores. Foram feitos inicialmente os chamados anéis menores. Depois de Celebrimbor se aperfeiçoar na arte ensinada por Annatar, os dois fizeram os Sete Anéis, presenteados aos Pais dos Anãos. Em seguida forjaram os Nove Anéis, dados aos Homens. Quando Sauron se sentiu satisfeito, ele partiu para Mordor, onde fizera o Um Anel, em 1600 SE, para controlar os demais e submetê-los à sua vontade. Mas enquanto ele ia para a Terra da Sombra, Celebrimbor fez os Três Anéis dos Elfos, entregando um a Galadriel e dois a Gil-galad (que depois deu os seus a Círdan, o Armador e Elrond). E embora a mão de Sauron nunca os tivesse tocado, eles também eram submissos ao Um.
+
+O plano de Sauron fracassou por dois motivos: os Anãos eram mais resistentes à sua dominação do que o esperado; e os elfos retiraram os anéis assim que sentiram a maldade do Senhor Sombrio quando ele pôs o Um Anel em seu dedo. Somente os Nove Anéis cumpriram seu propósito, de maneira que seus portadores decaíram ao longo dos anos até se tornarem Nazgûl, os Espectros-do-Anel. Após isso, toda a Terra-média enfim viu revelada a traição de Sauron, e uma guerra teve início. Com seu exército, em 1697, o Senhor Sombrio invadiu a região de Eriador e destruiu Eregion, matando Celebrimbor. Seu exército cercou Lindon, mas reforços vindos de Númenor, enviados por Tar-Minastir, fizeram Sauron recuar. Com isso, houve paz por um longo período.
+
+Em 3261 SE, após Sauron se recuperar e se declarar Rei dos Reis, Ar-Pharazôn, o Dourado, Rei de Númenor, em seu orgulho, aportou nas costas da Terra-média para enfrentá-lo. Suas tropas eram tão imponentes que os serviçais de Sauron temeram, e no ano seguinte o próprio Senhor Sombrio se rendeu, sendo levado cativo para Númenor. No entanto, os Númenóreanos deram exatamente o que ele queria: uma entrada para a ilha. Em pouco tempo, Sauron, como era belo e parecia sábio aos olhos dos Homens, deixou de ser prisioneiro para se tornar o conselheiro mais importante do rei. Ele semeou nos corações dos Númenóreanos ainda mais o ódio e o medo da morte. Cultos a Melkor surgiram, templos foram erguidos em nome de Sauron e Númenor se viu ainda mais divida entre os Fiéis e os Homens do Rei. O próprio Ar-Pharazôn foi convencido de que os Valar conspiravam para favorecer os Elfos em detrimento dos Homens, pois temiam o poder destes se tivessem imortalidade. Assim, em 3310 SE, a conselho de Sauron, ele construiu a maior frota armada já vista, chamada Grande Armamento, e com ela desafiou a Interdição dos Valar e navegou até Aman, pisando em sua costa no ano 3319. Como resposta, Eru Ilúvatar foi chamado pelos Valar, e ele destruiu todos os navios com a Grande Onda e abriu uma fissura na terra, provocando a Queda de Númenor. Lá, o corpo de Sauron foi destruído, mas seu espírito fugiu de volta para Mordor. Então ele fez para si um novo corpo, mas como agora seu poder fora diminuído, ele só podia assumir uma forma hedionda e maligna. De lá, também escaparam alguns poucos Númenóreanos, sendo Elendil, o Alto, e seus filhos Isildur e Anárion os mais importantes, pois fundaram os reinos de Gondor e Arnor em 3320.
+
+No ano 3429, Sauron atacou Gondor ferozmente, fazendo com que Isildur buscasse apoio de Elendil no Norte. Assim foi formada a Última Aliança de Elfos e Homens (que também contava com a participação dos Anãos), liderada por Gil-galad e Elendil. E tal hoste rechaçou o poderio de Sauron na Terra-média e marchou contra Mordor. Em 3434 ocorreu a Batalha de Dagorlad, em que as forças de Mordor foram derrotadas. Como consequência, a Última Aliança cercou Barad-dûr por sete anos, e em 3441, no momento derradeiro, o próprio Sauron se apresentou para lutar contra Gil-galad e ElendiI. Os dois derrotaram o Inimigo do Mundo, mas também pereceram na batalha. Foi após isso que Isildur tomou o Um Anel de Sauron cortando seu dedo com os fragmentos de Narsil, a espada de Elendil.
+
+Terceira Era
+Por muito tempo pensou-se que Sauron estava de fato derrotado, mas como ele colocou grande parte de seu poder no Um Anel, e o objeto sobrevivera, ele não morreu por completo.
+
+Ao longo da Terceira Era, os Nazgûl ressurgiram. O líder deles se tornou o Rei-bruxo de Angmar, sendo responsável por guerrear contra Arnor e provocando seu declínio. Entre 2000 e 2003 TE, os Nazgûl tomaram Minas Ithil, que se tornou Minas Morgul. Ao mesmo tempo, Gondor lidava com problemas internos e ataques dos Corsários de Umbar e dos Carroceiros. Pois também se juntaram aos servidores de Sauron os Lestenses, vindos de Rhûn, e os Sulistas, de Harad, além dos Homens de Khand.
+
+O Conselho Branco, formado por Elrond, Galadriel, Gandalf e Saruman, suspeitava de uma treva crescente em Dol Guldur, em Verdemata, que passou a ser chamada de Trevamata. Ali, o Necromante, que era simplesmente Sauron ressurgido, agiu recuperando o que podia dos Sete Anéis e buscando informações do Um Anel. Com o tempo, Sauron aumentou novamente em poder, e quando Gandalf o expulsou da fortaleza, ele voltou para Mordor e iniciou a reconstrução de Barad-dûr, declarando-se ao mundo novamente. Os Nazgûl se juntaram diante seu comando, os Orques, agora multiplicados, já formavam um grande exército e os reinados dos Homens enfraqueciam cada vez mais.
+
+Quando Gollum se infiltrou em Mordor procurando por Bilbo Bolseiro, ele foi levado para a Torre Sombria e torturado, e assim Sauron ficou sabendo que seu Anel caíra em posse de um hobbit do Condado. Por anos ele buscou esse local, até que em 3018 TE teve início a Guerra do Anel, em que Aragorn, o Herdeiro de Isildur, desafiou o Senhor Sombrio, e os reinos de Rohan e Gondor se uniram para resistir à invasão de Mordor, ao mesmo tempo em que Frodo Bolseiro, portando o Um Anel, partiu rumo ao Monte da Perdição para destruir o artefato e derrotar Sauron definitivamente. Enfim, no ano de 3019 TE, o Anel caiu nas chamas de Orodruin e Sauron foi derrotado, de forma que nunca mais conseguiu assumir forma física e passou a viver como um espírito de ódio vagando pelo mundo, uma mera lembrança de um mal distante.

@@ -1,0 +1,39 @@
+	body{
+		font-family: sans-serif;
+		background-color: black;
+		color: white;
+		margin:30px 40px 30px 40px;
+	}
+	h1{
+		background-color: rgb(77, 11, 23);
+		padding: 20px;
+		text-align: center;
+	}
+	h2{
+		color: rgb(77, 11, 23);
+		padding: 5px;
+		padding-left: 50px;
+	}
+	h3{
+		color: rgb(99, 42, 42);
+		background-color: rgb(5, 5, 5);
+		padding: 20px;
+	}
+	p{
+		color: rgb(222, 202, 202);
+		padding: 20px;
+	}
+	figure{
+		margin-bottom: 50px;
+	}
+	li{
+		color: rgb(222, 202, 202);
+	}
+	a{
+		color: rgb(77, 11, 23);
+	}
+	footer{
+		background-color: rgb(43, 8, 8);
+		padding: 10px;
+		text-align: center;
+	}

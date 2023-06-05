@@ -1,0 +1,22 @@
+body{
+	font-family: Trebuchet MS;
+	background-image: url(../img/brucee.jpg);
+	color: white;
+	margin: 30px 40px 30px 40px
+}
+h1{
+	color: white;
+	font-family: Trebuchet MS;
+}
+a{
+	color: yellow;
+	font-size:  25px;
+}
+footer{
+	background-image: url(../img/pauro-e-lusca.png);
+	padding: 20px;
+	text-align: center;
+}
+p{
+	font-size: 25px;
+}

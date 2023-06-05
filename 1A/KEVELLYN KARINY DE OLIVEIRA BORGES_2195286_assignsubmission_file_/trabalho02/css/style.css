@@ -1,0 +1,32 @@
+body{ 
+	background-color: #C0C0C0;
+	margin:30px 40px 30px 40px;
+	font-family: sans-serif
+}
+h1{ 
+	border-color: #8B0000;
+	border-style: solid;
+	border-width: 4px;
+	text-align: center }
+
+figure{
+	text-align: center
+}
+ul{
+	border-color: #8B0000;
+	border-style: solid;
+	border-width: 2px;
+}
+h2{
+	color: 	#8B0000;
+}
+a{
+	color:#8B0000;
+}
+footer{
+	padding: 10px;
+	color:	#8B0000;
+	background-color: black;
+	text-align: center
+
+}

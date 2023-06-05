@@ -1,0 +1,29 @@
+body{
+	background-color:black;
+	color:white;
+	font-family:sans-serif;
+	margin:50px;
+}
+h1{	
+	color:white;
+}
+h2{
+	color:white;
+}
+.imagens{
+	margin-left:50px;
+}
+.corsec{
+	background-color:#001b40;
+}
+.Titulo{
+	text-align:center;
+		background-color:#001b40;
+		padding:25px;
+}
+.Titulo2{
+	text-align:center;
+		background-color:#001b40;
+		padding:10px;
+}
+

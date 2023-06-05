@@ -1,0 +1,194 @@
+#logo {
+    width: 1200px;
+    height: 700px;
+    background-color: none;
+    object-fit: fill;
+    object-position: center;
+    border: none;
+}
+
+body {
+    background-color: rgb(211, 115, 255);
+}
+
+footer {
+    font-size: 20px;
+    font-family: "Monaco", monospace;
+}
+
+h1 {
+    border-radius: 50px;
+    background-color: rgb(255, 38, 162);
+    font-family: "Lucida Handwriting", Cursive;
+    font-size: 45px;
+    color: blueviolet
+}
+
+h2 {
+    border-radius: 50px;
+    background-color: none;
+    font-family: "Arial", Helvetica, sans-serif;
+    font-size: 40px;
+    color: rgb(78, 243, 207);
+}
+
+h3 {
+    border-radius: 50px;
+    background-color: rgb(109, 0, 100);
+    font-size: 35px;
+    font-family: "Monaco", monospace;
+    color: rgb(255, 255, 255);
+}
+
+li {
+    border-left: 500px;
+    color: rgb(255, 255, 255);
+    font-size: 25px;
+    text-align: justify;
+    list-style: inside;
+}
+
+ul {
+    text-align: center;
+    list-style: inside;
+    border-radius: 50px;
+    background-color: none;
+    font-size: 35px;
+    font-family: "Monaco", monospace;
+    color: rgb(255, 255, 255);
+}
+
+p {
+    font-size: 40px;
+    color: rgb(25, 218, 57);
+}
+
+a {
+    margin-bottom: 20px;
+    font-size: 30px;
+    color: rgb(102, 99, 255);
+}
+
+audio {
+    margin-bottom: 20px;
+    font-size: 30px;
+    color: rgb(102, 99, 255);
+}
+
+.container {
+    text-align: center;
+    border: 0px;
+}
+
+#twilight {
+    height: 650px;
+    background-color: none;
+    object-fit: contain;
+    object-position: left;
+}
+
+#twilightmarca {
+    height: 650px;
+    background-color: none;
+    object-fit: contain;
+    object-position: right;
+}
+
+#applejack {
+    height: 650px;
+    background-color: none;
+    object-fit: contain;
+    object-position: left;
+}
+
+#applejackmarca {
+    height: 650px;
+    background-color: none;
+    object-fit: contain;
+    object-position: right;
+}
+
+#RainbowDash {
+    height: 650px;
+    background-color: none;
+    object-fit: contain;
+    object-position: left;
+}
+
+#rainbowmarca {
+    height: 650px;
+    background-color: none;
+    object-fit: contain;
+    object-position: right;
+}
+
+#fluttershy {
+    height: 650px;
+    background-color: none;
+    object-fit: contain;
+    object-position: left;
+}
+
+#fluttershymarca {
+    height: 650px;
+    background-color: none;
+    object-fit: contain;
+    object-position: right;
+}
+
+#pinkiepie {
+    height: 650px;
+    background-color: none;
+    object-fit: contain;
+    object-position: left;
+}
+
+#pinkiepiemarca {
+    height: 650px;
+    background-color: none;
+    object-fit: contain;
+    object-position: right;
+}
+
+#rarity {
+    height: 650px;
+    background-color: none;
+    object-fit: contain;
+    object-position: left;
+}
+
+#raritymarca {
+    height: 650px;
+    background-color: none;
+    object-fit: contain;
+    object-position: right;
+}
+
+#sunset {
+    height: 650px;
+    background-color: none;
+    object-fit: contain;
+    object-position: left;
+}
+
+#sunsetmarca {
+    height: 650px;
+    background-color: none;
+    object-fit: contain;
+    object-position: right;
+}
+
+figcaption {
+    color: pink
+}
+
+.container2 {
+    box-sizing: border-box;
+    width: 650px;
+    display: inline-block;
+}
+
+.left {
+    margin-left: 210px;
+    margin-right: 240px;
+}

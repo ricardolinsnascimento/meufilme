@@ -1,0 +1,44 @@
+h2{
+	font-size: 37px;
+  font-family: serif;
+  outline: 10px inset;
+}
+p{
+	font-size: 20px;
+  font-family: serif;
+}
+iframe{
+	width: 800px;
+}
+body{
+ background-color: #696969;
+ font-family: sans-serif;
+ font-size: 25px;
+ margin-top: 20px;
+ margin-right: 20px;
+ margin-bottom: 20px;
+ margin-left: 20px;
+}
+h1{  
+  margin-top: 20px;
+  margin-right: 20px;
+  margin-bottom: 20px;
+  margin-left: 20px;
+  font-family: serif;
+}
+p{  
+ color: #000000;
+ border-style: inset;		
+}
+li{ 
+ border-width: 4px;
+}
+a{
+  border-style: inset;
+  border-width: 4px;
+  color: #000000;
+  font-family: sans-serif;
+}
+footer{
+  padding: 10px;
+}

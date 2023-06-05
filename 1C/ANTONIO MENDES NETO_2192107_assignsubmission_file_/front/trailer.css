@@ -1,0 +1,23 @@
+body{
+background: url(./img/itra.jpg);
+
+
+}
+
+iframe {
+
+	padding-top:100px;
+	margin-right:780px
+}
+
+
+footer{ 
+color:#FFFFFF;
+padding-top:140px 
+ }
+
+a{
+color:#00FFF8;
+font-size: 40px
+}
+

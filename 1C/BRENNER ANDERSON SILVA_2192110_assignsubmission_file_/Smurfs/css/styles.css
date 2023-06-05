@@ -1,0 +1,52 @@
+body{
+    font-family: 'Comic Neue', cursive, Arial, Helvetica, sans-serif;
+    background-color: lightblue;
+}
+img{
+    margin-left: 620px;
+    margin-right: 620px;
+}
+h2{
+    margin-left: 230px;
+    margin-right: 230px;
+    text-align: center;
+}
+iframe{
+    border-style: double;
+    border-width: 3px;
+    border-color: blue;
+    margin-left: 500px;
+    margin-right: 500px;
+}
+h1{
+	color: midnightblue;
+	text-align: center;
+}
+figcaption{
+	text-align: center;
+}
+
+h3{
+	text-align: center;
+}
+p{
+	margin-left: 230px;
+   	margin-right: 230px;
+   	text-align: center;
+}
+a{
+	text-align: center;
+}
+audio{
+    margin-left: 620px;
+    margin-right: 620px;
+}
+li{
+    margin-left: 620px;
+}
+footer{
+    background-color: royalblue;
+    padding: 23px;
+    
+}
+

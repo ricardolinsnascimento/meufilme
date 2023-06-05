@@ -1,0 +1,40 @@
+body{
+      background-color:#87CEEB;
+      text-align: center;
+}
+  h1{
+      background-color:#1E90FF;
+       text-align: center;
+}
+  h2{
+    background-color:#FFDAB9;
+    text-align: center 
+ }
+  h3{
+    background-color: #FFDAB9;
+    text-align: center
+ }     
+  p{
+    background-color:#FFDAB9;
+    text-align: center
+}
+  ul{
+    background: #FFDAB9;
+    font-family: sans-serif;
+    list-style: none;
+ }
+
+  figure{
+    background-color:#FFDAB9;
+    font-family: sans-serif;
+    text-align: center  
+}
+  figcaption{
+    background-color: #FFDAB9;
+    text-align: center
+}
+
+  footer{
+    background-color: #FFDAB9;
+    text-align: center;
+ }

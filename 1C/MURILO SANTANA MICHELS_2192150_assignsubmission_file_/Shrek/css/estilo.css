@@ -1,0 +1,242 @@
+body{ /* propriedades do corpo do site */
+	font-family: Arial, sans-serif;				/* Trabalho feito por Murilo e Otavio Carvalho - 1C INFO */
+	background-image: url(../img/stone.png);
+	background-size: 100px 100px;
+}
+.qnavegar{ /* propriedades da imagem que indica o menu de navegação */
+	height: 120;
+	width: auto;
+}
+.qinicio{ /* propriedades do botão que vai para o início */
+	height: 120;
+	width: auto;
+	margin-left: -5;
+}
+.qtrailer{ /* propriedades do botão que vai para o trailer */
+	height: 120;
+	width: auto;
+	margin-left: -5;
+}
+.qsinopse{ /* propriedades do botão que vai para a sinopse */
+	height: 120;
+	width: auto;
+	margin-left: -5;
+}
+.qdirecao{ /* propriedades do botão que vai para a direção */
+	height: 120;
+	width: auto;
+	margin-left: -5;
+}
+img{ /* propriedades da imagem do nome do filme */
+	margin-left: 570px;
+	position: center;
+}
+.baner{ /* propriedades do banner */
+	margin-left: -220px;
+	margin-top: -20px;
+}
+iframe{ /* propriedades do trailer do filme */
+	margin-left: 350px;
+	margin-top: -60px;
+}
+.titrailer{ /* propriedades do subtitulo trailer */
+	background-image: url(../img/txtb.png);
+	background-size: 300px 100px;
+	background-repeat: no-repeat;
+	padding: 50px 10px 50px 870px;
+	color: rgb(255, 255, 255);
+	font-size: 50px;
+	margin-top: 100px;
+	background-position: center;
+}
+.psinopse{ /*  propriedades do texto da sinopse */
+	font-size: 30px;
+	background-color: rgb(255, 255, 255);
+	margin: -1000059px 332px 0px 345px;
+	padding: 999999px 20px 900px 20px;
+	position: relative;
+	z-index: -1;
+}
+.hsinopse{ /*  propriedades do subtitulo sinopse */
+	background-image: url(../img/txtb.png);
+	background-size: 300px 100px;
+	background-repeat: no-repeat;
+	padding: 50px 10px 50px 850px;
+	color: rgb(255, 255, 255);
+	font-size: 50px;
+	margin-top: 100px;
+	background-position: center;
+}
+.hdirecao{ /*  propriedades do subtitulo da direção */
+	background-image: url(../img/txtb.png);
+	background-size: 300px 100px;
+	background-repeat: no-repeat;
+	padding: 50px 10px 50px 850px;
+	color: rgb(255, 255, 255);
+	font-size: 50px;
+	background-position: center;
+	margin-top: -800px;
+}
+.pdirecao{ /*  propriedades do texto da direção */
+	font-size: 30px;
+	margin: -300px 342px 0px 830px;
+}
+.imgdirecao{ /* propriedades da imagem dos diretores */
+	margin: -50px 332px 0px 365px;
+}
+.personag{ /* propriedades da imagem link para a página de personagens */
+	margin-top: 100px;
+	margin-left: 650px;
+	height: 150;
+	width: auto;
+}
+.adorocinema{ /* propriedades do link para o site externo */
+	margin-top: 20px;
+	margin-left: 660px;
+	height: 150;
+	width: auto;
+}
+.voltai{ /* propriedades do botão que volta para o início da página */
+	margin-top: 20px;
+	margin-left: 660px;
+	height: 150;
+	width: auto;
+}
+.invisivel1{ /* propriedades da tag <p> que faz o fundo branco */
+	font-size: 30px;
+	background-color: rgb(255, 255, 255);
+	margin: -1001059px 332px 0px 345px;
+	padding: 1000500px 20px 600px 20px;
+	position: relative;
+	z-index: -2;
+	color: rgb(255, 255, 255);
+}
+.rodape{ /* propriedades do rodapé */
+	background-image: url(../img/deepslate.png);
+	background-size: 120px;
+	padding: 50px 70px 50px 70px;
+	font-size: 35px;
+	color: rgb(255, 255, 255);
+	text-align: center;
+	margin: -20px;
+	-webkit-text-stroke: 1.2px;
+	-webkit-text-stroke-color: rgb(0, 0, 0);
+}
+.qvoltar1{ /* propriedades do botão que volta para página principal */
+	height: 120;
+	width: auto;
+	margin-left: 410px;
+}
+.qnavegar1{ /* propriedades da imagem que indica o menu de navegação */
+	height: 120;
+	width: auto;
+	margin-left: -5px;
+}
+.qinicio1{ /* propriedades do botão que vai para o início */
+	height: 120;
+	width: auto;
+	margin-left: -5px;
+}
+.qshrek1{ /* propriedades do botão que vai para o personagem Shrek */
+	height: 120;
+	width: auto;
+	margin-left: -5px;
+}
+.qfiona1{ /* propriedades do botão que vai para o personagem Fiona */
+	height: 120;
+	width: auto;
+	margin-left: -5px;
+}
+.qburro1{ /* propriedades do botão que vai para o personagem Burro */
+	height: 120;
+	width: auto;
+	margin-left: -5px;
+}
+.qfarquaad1{ /* propriedades do botão que vai para o personagem Farquaad */
+	height: 120;
+	width: auto;
+	margin-left: -5px;
+}
+.qdragao1{ /* propriedades do botão que vai para o personagem Dragão */
+	height: 120;
+	width: auto;
+	margin-left: -5px;
+}
+.personagh1{ /* título da página de personagens */
+	position: center;
+	margin-top: 20px;
+}
+.fotoshrek{ /* propriedades da imagem do personagem Shrek */
+	margin: 0px 332px 0px 365px;
+}
+.textoshrek{ /* propriedades do texto sobre o personagem Shrek */
+	font-size: 47px;
+	margin: -400px 350px 0px 808px;
+}
+.tituloshrek{ /* propriedades do subtitulo do personagem Shrek */
+	font-size: 80px;
+	margin: 60px 0px 0px 465px;
+}
+.fotoburro{ /* propriedades da imagem do personagem Burro */
+	margin: -65px 332px 0px 365px;
+}
+.textoburro{ /* propriedades do texto sobre o personagem Burro */
+	font-size: 47px;
+	margin: -430px 350px 0px 808px;
+}
+.tituloburro{ /* propriedades do subtitulo do personagem Burro */
+	font-size: 80px;
+	margin-left: 470px;
+	margin-top: 60px;
+}
+.fotofiona{ /* propriedades da imagem do personagem Fiona */
+	margin: -65px 332px 0px 365px;
+}
+.textofiona{ /* propriedades do texto sobre o personagem Fiona */
+	font-size: 47px;
+	margin: -380px 350px 0px  808px;
+}
+.titulofiona{ /* propriedades do subtitulo do personagem Burro */
+	font-size: 80px;
+	margin-left: 470px;
+	margin-top: 40px;
+}
+.fotofarquaad{ /* propriedades da imagem do personagem Farquaad */
+	margin: -65px 332px 0px 365px;
+}
+.textofarquaad{ /* propriedades do texto sobre o personagem Farquaad */
+	font-size: 47px;
+	margin: -400px 350px 0px  808px;
+}
+.titulofarquaad{ /* propriedades do subtitulo sobre o personagem Farquaad */
+	font-size: 80px;
+	margin-left: 395px;
+	margin-top: 100px;
+}
+.fotodragao{ /*  propriedades da imagem do personagem Dragão */
+	margin: -65px 332px 0px 365px;
+	position: relative;
+}
+.textodragao{ /* propriedades do texto sobre o personagem Dragão */
+	font-size: 47px;
+	margin: -400px 350px 0px  808px;
+}
+.titulodragao{ /* propriedades do subtitulo do personagem Dragão */
+	font-size: 80px;
+	margin-left: 435px;
+	margin-top: 60px;
+}
+.voltai2{  /* propriedades do botão que volta para o início da página */
+	margin-top: 100px;
+	margin-left: 660px;
+	height: 150;
+	width: auto;
+}
+.invisivel2{ /* propriedades da segunda tag <p> que faz o fundo branco */
+	font-size: 30px;
+	background-color: rgb(255, 255, 255);
+	margin: -1001059px 332px 0px 345px;
+	padding: 1000500px 20px 600px 20px;
+	z-index: -2;
+	color: rgb(255, 255, 255);
+}

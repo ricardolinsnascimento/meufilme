@@ -1,0 +1,55 @@
+
+ body{
+ 	border-color: #DAA520;
+ 	border-style: solid;
+ 	border-width: 5px ;
+	margin: 30px 30px 30px 30px ;
+   text-align:center;
+     background-image: url(../img/fundo.jpg) 
+ }
+ p{
+    font-family:Comic Sans ;
+    font-size: 20px;
+    color: #FFFAFA;
+ }
+ figure{
+    color: #FFFAFA;
+    font-family:Cursive ;
+    font-size: 18px;
+ }
+ h1{
+    font-family: Rockwell;
+    font-size: 40px;
+     color:#DAA520;
+      padding-left: 10px;
+ }
+ footer{
+    background-color:#DAA520;
+   padding: 2px;
+   text-align: center;
+ 
+ }
+ h2{
+    font-family:Century Gothic ;
+    font-size: 20px;
+    color:#DAA520;
+ }
+ ul{
+    list-style:none ;
+    font-family: Sans-serif ;
+    font-size: 15px;
+   
+ }
+ a{
+   color:#FFFAFA;
+    font-family: Sans-serif ;
+    font-size: 15px;
+ }
+ h3{
+    color:#DAA520;
+    font-family:Century Gothic;
+    font-size: 20px;
+ }
+ li{
+    color: #FFFAFA;
+ }

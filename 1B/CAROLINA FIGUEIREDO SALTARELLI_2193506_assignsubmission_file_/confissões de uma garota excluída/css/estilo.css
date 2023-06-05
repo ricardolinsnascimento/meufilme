@@ -1,0 +1,33 @@
+	body{
+	background-image: url(../img/fundooo.jpg);
+	background-size: 124%;
+	font-family: cursive;
+	text-align: center;
+	}
+	li{
+	list-style-position: inside;
+	font-size: 20px;
+	}
+	h1{
+	color: rgb(220, 220, 220);
+	background-color: rgb(0, 0, 0);
+	padding: 7px;
+	font-family: fantasy;
+	}
+	figcaption{
+	color: rgb(220, 220, 220);
+	}
+	footer{
+	background-color: rgb(0, 0, 0);
+	color: rgb(220, 220, 220);
+	padding: 7px;
+	font-family: fantasy;
+	font-size: 22px;
+	}
+	a{
+	color: rgb(220, 220, 220);
+	}
+	p{
+	font-size: 22px;
+	}
+	

@@ -1,0 +1,43 @@
+		body{
+			background-color: #011E40;
+			font-family:helvetica, arial, sans-serif;
+			margin: 30px 30px 30px 30px;
+			background-image: url(../img/preto.jpg);
+			text-align: center;
+			border-style: #051e3b
+			font-size: 20px;
+			color: #ffffff;
+
+		}
+		li{
+			list-style-position: inside;
+		}
+		h1{color: rgb(255,255,255);
+			padding-left: 30px;
+			padding-top: 15px;
+			padding-bottom: 15px;
+		}
+		p{
+			font-size: 20px;
+		}
+		figure{
+			margin-bottom: 60px;
+		}
+		h2{
+			color: #DAA520;
+			font-size: 20px;
+		}
+		ul{
+			font-size: 15px;
+			font-family: sans-serif;
+		}
+		h3{
+			color: #DAA520;
+			font-size: 20px;
+		}
+		footer{
+			background-color: rgb(255,255,255)
+			color: rgb(10,23,45);
+			text-align: center;
+			padding: 7px;
+		}

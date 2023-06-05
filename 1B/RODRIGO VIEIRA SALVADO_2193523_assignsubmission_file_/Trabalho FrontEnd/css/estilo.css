@@ -1,0 +1,203 @@
+#body {
+	background-image: url(../Img/netflix.png);
+	margin: 0px;
+	position: absolute;
+}
+#inicio {
+	position: absolute;
+	background-color: rgba(0,0,0,0.8);
+	border-radius: 3px;
+	padding: 68px;
+	margin-left: 460px;
+	margin-right: 440px;
+	margin-bottom: 415px;
+}
+#login{
+	text-align: left;
+	background-color: rgb(51,54,51);
+	border-color: rgb(51,54,51);
+	border-style: solid;
+	border-radius: 4px;
+	border-width: 3px;
+	text-align: left;
+	color: #FFFFFF;	
+	margin-top: 7px;
+	margin-bottom: 10px;
+	padding: 13px;
+	padding-right: 100px;
+}
+#Titulo{
+	color: #FFFFFF;
+	font-size: 35px;
+	font-family: sans-serif;
+	margin-top: -10px;
+	margin-bottom: 20px	margin-left: 20px;
+	text-align: left;
+}	
+#logo{
+	margin-left: 26px;
+	margin-top: -26px;
+	cursor: pointer;
+}
+#Entrar {
+	/* Eu não consegui centralizar o "Entrar" ao meio do botão, eu fiz o fundo e a letra no mesmo id, e eu não tinha entendido qual o problema que estava acontecendo, que estava fazendo com que as letras não ficassem no meio. */
+	background-color: #eb0c0c;
+	color: #FFFFFF;
+	border: none;
+	border-radius: 4px;
+	cursor: pointer; /* Usei o cursor pointer para indicar que ele da acesso a outra pagina, já que ele é um botão. */
+	margin-top: 28px;
+	font-family: sans-serif;
+	font-size: 17px;
+	padding-bottom: 25px;
+	padding-right: 237px;
+}
+#assinar{
+	font-size: 13px;
+	font-family: sans-serif;
+	border: none;
+	margin-left: 110px;
+	margin-right: 10px;
+	margin-bottom: 99px;
+	margin-top: 9px;
+	color: #FFFFFF;
+}
+#novo {
+	font-size: 13px;
+	font-family: sans-serif;
+	border: none;
+	margin-left: 0px;
+	margin-right: 10px;
+	margin-bottom: -24px;
+	color: #FFFFFF;
+}
+#duvidas{
+	font-size: 15px;
+	font-family: Monospace, sans-serif;
+	color: #FFFFFF;
+	margin-left: 10px;
+	margin-top: 30px;
+}
+#body2 {
+	font-family: sans-serif;
+	color: #FFFFFF;
+	background-image: linear-gradient(180deg, black, grey);
+	margin: 0px;
+}
+#body3 {
+	font-family: sans-serif;
+	background-image: linear-gradient(45deg, black, crimson);
+	background-size: 247vh;
+	margin: 0;
+	color: #FFFFFF;
+	font-size: 19px;
+}
+#titulo1{
+	text-align: center;
+}
+#resumo{
+	margin: 13px;
+	font-size: 18px;
+}
+#titulo2{
+	text-align: center;
+}
+#footer{
+	margin-top: 41px;
+	margin-left: 10px;
+	font-family: Monospace, sans-serif;
+}
+#menu{
+	font-size: 20px;
+	margin-top: -87px;
+	margin-left: 300px;
+}
+#p2{
+	margin-top: -43px;
+	margin-left: 100px;
+}
+#p3{
+	margin-top: -43px;
+	margin-left: 203px;
+}
+#p4{
+	margin-top: -43px;
+	margin-left: 303px;
+}
+#p5{
+	margin-top: -43px;
+	margin-left: 437px;
+}
+#avatar{
+	margin-left: 1641px;
+	margin-top: -37px;
+}
+#seta{
+	font-size: 14px;
+	margin-left: 1700px;
+	margin-top: -35px;
+}
+#sino{
+	font-size: 14px;
+	margin-left: 1610px;
+	margin-top: -27px;
+}
+#capapopular{
+	margin-top: 550px;
+	margin-left: 30px;
+	border-radius: 8px;
+}
+#populares{
+	font-size: 25px;
+	margin-left: 30px;
+	margin-top: 560px;
+	margin-bottom: -584px;
+}
+#trailer{
+	margin-bottom: 250px;
+	margin-right: 200px;
+	margin-left: -303px;
+}
+#sinopsetitulo{
+	text-align: center;
+}
+#sinopse{
+	margin-left: 27px;
+}
+#footer2{
+	background-color: rgba(0,0,0,0.4);
+}
+#romance{
+	font-size: 25px;
+	margin-left: 30px;
+}
+#caparomance{
+	margin-left: 30px;
+	border-radius: 8px;
+}
+#terror{
+	font-size: 25px;
+	margin-left: 30px;
+}
+#capaterror{
+	margin-left: 30px;
+	border-radius: 8px;
+}
+#premiostitulo{
+	text-align: center;
+}
+#premios{
+	margin-left: 27px;
+}
+#elencotitulo{
+	text-align: center;
+}
+#elenco{
+	margin-left: 27px;
+}
+#direcaotitulo{
+	text-align: center;
+}
+#direcao{
+	margin-left: 27px;
+}

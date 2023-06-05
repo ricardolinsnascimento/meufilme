@@ -1,0 +1,38 @@
+body{
+		color: rgb(0,0,0); 
+		background-color: rgb(10, 10, 10);
+		margin-left: 50px;
+		margin-bottom: 40px;
+		margin-top: 40px;
+		margin-right: 50px;
+		foont-family: Arial;
+	}
+	h1{
+		color: rgb(0, 155, 255);
+		background-color: rgb(185, 185, 185);
+	}
+	h2{
+		color: rgb(255, 255, 255);
+		margin-top: 80px;
+	}
+	figure{
+		font-size: larger 20px;
+		color: rgb(255, 255, 255);
+
+	}
+	a{
+		color: rgb(0, 205, 255);
+	}
+	p{
+		color: rgb(0, 155, 255);
+	}
+	li{
+		color: rgb(0, 155, 255);
+	}
+
+footer{
+		background-color: rgb(185, 185, 185);
+		color: rgb(0, 155, 255);
+
+}
+

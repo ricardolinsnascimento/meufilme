@@ -1,0 +1,25 @@
+h1{
+	color: white;
+	background-color: black;
+	font-family: arial;
+}
+footer{
+	padding: 10px;
+	color: black;
+	background-color: #B0C4DE;
+	text-align: center;
+	font-size: 15px;
+	font-family: arial;
+}
+body{
+	background-color: #C0C0C0;
+	font-family: arial;
+}
+h2{
+	color: black;
+	font-family: arial;
+}
+h3{
+	color: black;
+	font-family: arial;
+}

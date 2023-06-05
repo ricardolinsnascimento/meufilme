@@ -1,0 +1,75 @@
+body{
+		margin: 30px 40px 30px 40px;
+		background-image: url(../img/fundo.png);
+		font-family: verdana, sans-serif;
+		font-size: 20px;
+		background-size: 2300px auto
+	}
+	h1{
+		color: rgb(255,255,255);
+		padding: 10px 10px 10px 20px;
+
+	}
+	h2{
+		color: rgb(255,255,255);
+		border-color: yellow;
+		border-style: dashed;
+		border-width: 2px;
+		padding-left: 10px;
+		margin-right: 140px;
+	}
+
+	h3{
+		color:rgb(255,255,255);
+	}
+	ul{
+		color:rgb(255,255,0);
+		
+	}
+	figure{
+		margin-left: 100px;
+		margin-bottom: 50px;
+	}
+	footer{
+		text-align: center; 
+		background-color:rgb(139,0,0);
+		color: rgb(255,255,255);
+		padding: 10px;
+		margin-top: 40px;
+	}
+	p{
+		color:rgb(255,255,255);
+	}
+a{
+	color: rgb(255,255,255);
+}
+
+figcaption{
+	color:rgb(255,255,255);
+}
+.emma{
+	margin-left:310px;
+	margin-top:-300px;
+	font-size: 30px;
+}
+.rupert{
+	margin-left: 310px;
+	margin-top: -300px;
+	font-size: 30px;
+}
+.ralph{
+	margin-left: 310px;
+	margin-top: -300px;
+	font-size: 30px;
+}
+.michael{
+	margin-left: 310px;
+	margin-top: -300px;
+	font-size: 30px;
+}
+.daniel{
+	margin-left: 310px;
+	margin-top: -300px;
+	font-size: 30px;
+}
+

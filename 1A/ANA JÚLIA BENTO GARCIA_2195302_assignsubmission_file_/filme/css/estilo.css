@@ -1,0 +1,34 @@
+body{
+	font-size:17px;
+	font-family: Kartika, monospace;
+	background-color: #0B483F;
+	margin-left: 45px;
+	margin-right: 45px;
+}
+a{
+	color: #071419
+}
+h1{
+	
+	color: #152437;
+}
+h2{
+	color: #7CAF87;
+	
+}
+p{
+	color: #0F161B;
+	padding-right: 400px;
+	text-align: justify;
+}
+ul{
+	padding-left: 70px;
+}
+img{
+	padding-left: 60px
+}
+footer{
+	text-align: center;
+	background-color: #092C28;
+	color: rgba(2,14,14,255);
+}

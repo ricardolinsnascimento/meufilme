@@ -1,0 +1,41 @@
+ body{
+ 	font-family: sans-serif;
+  	background-image: url(../img/rosa.png);
+ 	
+ 	margin: 50px
+
+ }
+
+ li{ 
+ 	list-style-position: inside;
+ }
+
+ h1{
+ 	color: rgb(0,0,0);
+	background-image: url(../img/claro.jfif);
+	padding-left: 30px;
+	padding-top: 15px;
+	padding-bottom: 15px
+
+}
+p{
+
+	font-size: 20px;
+	
+}
+
+figure{
+	margin-bottom: 60px;
+}
+a{
+	color: orange;
+}
+ footer{
+ 	background-color: rgb(255, 52, 179);
+ 	color: black;
+ 	margin: 90px;
+ 	text-align: center;
+ 	min-height: 100px;
+ 	font-size: 20px;
+
+ }

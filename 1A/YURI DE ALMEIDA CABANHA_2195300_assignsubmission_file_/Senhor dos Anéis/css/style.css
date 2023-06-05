@@ -1,0 +1,57 @@
+body{
+	font-family: sans-serif;
+	text-align: center;
+	border: 3px solid;
+	border-color:rgb(255, 255, 255); 
+	background-color: rgb(0, 0, 0);
+	background-image: url(../img/Fundo.jpg); 
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: 100%;
+	color: rgb(255,255,255);
+}
+ h1{
+ 	background-color: rgba(0, 0, 0, 1.0);
+ 	border-color: rgb(255, 255, 255);
+ 	border-style: solid;
+ 	padding: 20px;
+ 	margin-left: 470px;
+ 	margin-right: 470px;
+}
+h2{
+	background-color: rgba(0, 0, 0, 1.0);
+	border-color: rgb(255, 255, 255);
+ 	border-style: solid;
+ 	padding: 15px;
+ 	margin-left: 300px;
+ 	margin-right: 300px;
+}
+h3{
+	background-color: rgba(0, 0, 0, 1.0);
+	border-color: rgb(255, 255, 255);
+ 	border-style: solid;
+ 	padding: 15px;
+ 	margin-left: 300px;
+ 	margin-right: 300px;
+}
+h4{
+    padding:5px;
+}
+p{
+	color: rgb(255, 255, 255);
+    padding: 20px;
+    background-color: rgba(0, 0, 0, 0.8);
+    margin-left: 100px;
+ 	margin-right: 100px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    border-width: 3px;
+}
+footer{
+	background-color: rgb(38, 147, 146);
+	color: rgb(0, 0, 0);
+	text-align: center;
+}
+a{
+	color: rgb(255, 255, 255);
+}
