@@ -1,0 +1,10 @@
+ body{color:purple;}
+            body{
+                background-color:red;
+            }
+  body{border-color: red;
+  	border-style: solid;
+  	border-width: 2px;
+
+  }
+
